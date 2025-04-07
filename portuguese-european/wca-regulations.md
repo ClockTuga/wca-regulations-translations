@@ -36,60 +36,59 @@ Nota: Uma vez que os números dos artigos não são atualizados quando algum del
 
 ## <article-1><officials><officials> Artigo 1: Oficiais
 
-- 1a) Uma competição requer a presença de um Delegado da WCA e uma equipa de organização (composta por um ou mais elementos) com os seguintes oficiais: juízes, embaralhadores e anotadores de resultados.
+- 1a) Uma competição requer a presença de um Delegado da WCA e uma equipa de organização (composta por um ou mais elementos) com os seguintes oficiais: juízes, embaralhadores e registadores de resultados.
 - 1b) A equipa de organização de uma competição é responsável pela logística antes, durante e depois da competição.
-- 1c) O Delegado da WCA pode delegar responsabilidades noutros membros da equipa de organização, mas é responsável, em última instância, pela forma como estas são conduzidas. O Delegado da WCA numa competição é responsável por:
-    - 1c1) Relatar para o Conselho da WCA se o regulamento completo foi seguido durante a competição, o seu andamento geral e quaisquer incidentes. O relatório deve ser enviado ao Conselho da WCA no prazo máximo de uma semana após o final da competição.
-    - 1c3) Enviar os resultados da competição para a Equipa de Resultados da WCA no prazo máximo de uma semana após o final da competição.
-        - 1c3a) Todas as sequências de embaralhamento usadas durante a competição devem ser enviadas junto com os resultados.
-        - 1c3b) As sequências de embaralhamento devem ser marcadas com as modalidades, rondas e grupos para os quais foram usadas.
-    - 1c4) Enviar correções aos resultados da competição para o Conselho da WCA.
-    - 1c5) Orientar os outros oficiais quando necessário.
-    - 1c6) Aprovar todos os formatos de modalidades e rondas de uma competição, antes que esta comece e alterações que sejam necessárias realizar durante a competição.
-    - 1c7) Decisões a respeito de desqualificações de competidores durante a competição.
-    - 1c8) Fornecer as sequências de embaralhamentos.
-    - 1c9) Decisões a respeito de mudanças nos horários de rondas. Nestes casos, um anúncio claro tem que ser feito a todos os competidores.
-    - 1c10) Disponibilizar uma cópia do Regulamento da WCA na competição.
-- 1e) Cada modalidade necessita ter um ou mais juízes.
+- 1c) O Delegado da WCA é responsável por assegurar que a competição vai ao encontro do Regulamento da WCA e/ou qualquer política ou requerimento da aplicável da WCA. O Delegado da WCA pode designar outros membros da Equipa de Organização para levar a cabo responsabilidades na sua vez, mas em último caso é responsável pela forma como as reponsabilidades são levadas a cabo.
+- 1e) Cada evento deverá ter um ou mais juízes.
     - 1e1) Um juiz é responsável por executar os procedimentos da modalidade.
         - 1e1a) Um juiz pode ajuizar vários competidores simultaneamente segundo o critério do Delegado da WCA, desde que o juiz seja capaz de assegurar que todo o Regulamento da WCA seja seguido em todos os momentos.
-    - 1e2) Todos competidores devem estar disponíveis para ser juízes. Se for necessário ser juiz, um competidor pode ser dispensado apenas por uma razão legítima (ex. não estar familiarizado com um quebra-cabeças), segundo critério do Delegado da WCA. Penalidade: desqualificação da competição (ver [Regra 2k](regulations:regulation:2k)).
-- 1f) Cada modalidade necessita ter um ou mais embaralhadores. Exceção: Resolução em Menos Movimentos.
-    - 1f1) O embaralhador aplica as sequências de embaralhamento para preparar os quebra-cabeças para as tentativas de resolução.
-    - 1f2) Cada competidor deve estar disponível para embaralhar. Se for necessário que embaralhe, um competidor pode ser dispensado por um motivo legítimo (ex. não estar familiarizado com a notação de embaralhamento), segundo critério do Delegado da WCA. Penalidade: desqualificação da competição (ver [Regra 2k](regulations:regulation:2k)).
-- 1g) Cada modalidade necessita ter um ou mais anotadores de resultados.
-    - 1g1) O anotador de resultados é responsável por compilar os resultados.
+    - 1e2) Todos competidores devem estar disponíveis para ser juízes. Se for necessário ser juiz, um competidor pode ser dispensado apenas por uma razão legítima (Ex.: não estar familiarizado com um puzzle), segundo o critério do Delegado da WCA. Penalidade: desqualificação de um evento, vários eventos ou todos os eventos da competição (ver [Regra 2k](regulations:regulation:2k)).
+- 1f) Cada evento necessita ter um ou mais embaralhadores. Exceção: 3x3x3 em Menos Movimentos.
+    - 1f1) O embaralhador aplica as sequências de embaralhamento para preparar os puzzles para as tentativas de resolução (ver [Regra A2](regulations:regulation:A2)).
+    - 1f2) Cada competidor deve estar disponível para embaralhar. Se for necessário que embaralhe, um competidor pode ser dispensado por um motivo legítimo (Ex.: não estar familiarizado com a notação de embaralhamento), segundo critério do Delegado da WCA. Penalidade: desqualificação de um evento, vários eventos ou todos os eventos da competição (ver [Regra 2k](regulations:regulation:2k)).
+- 1g) Cada modalidade necessita ter um ou mais registadores de resultados.
+    - 1g1) O registador de resultados é responsável por compilar os resultados.
     - 1g2) Alterações de resultados feitas nas folhas de resultados são apenas permitidas segundo critério do Delegado da WCA.
-- 1h) Os competidores numa mesma ronda de uma modalidade podem ser divididos em grupos.
-    - 1h1) Embaralhadores e juízes de uma ronda não devem embaralhar ou fiscalizar competidores do seu próprio grupo antes de terem terminado todas as suas tentativas dessa ronda. Eles podem embaralhar ou ajuizar competidores do seu próprio grupo ao critério do Delegado da WCA, mas a equipa de organização deve assegurar que embaralhadores e juízes não vejam nenhum embaralhamento de tentativas que ainda não tenham realizado.
+- 1h) Os competidores numa mesma ronda de uma modalidade podem competir em um só grupo ou ser divididos em vários grupos.
+    - 1h1) Embaralhadores e juízes de uma ronda não devem embaralhar ou ajuizar competidores do seu próprio grupo antes de terem terminado todas as suas tentativas dessa ronda.
+        - 1h1a) Para 3x3x3 em Menos Movimentos, juizes podem ajuizar competidores no seu grupo antes de terem terminado a sua tentativa (enquanto quanto estão a competir).
+        - 1h1b) Para 3x3x3 Vários Cubos Vendado, competidores podem ajuizar outros competidores no seu grupo após terem terminado a sua tentativa.
 - 1j) Todos os oficiais podem participar na competição.
-- 1k) Os oficiais podem acumular várias funções (por exemplo: equipa de organização, Delegado da WCA, juiz, anotador de resultado, embaralhador).
+- 1k) Os oficiais podem acumular várias funções (Ex.: equipa de organização, Delegado da WCA, juiz, registador de resultados, embaralhador).
 
 
 ## <article-2><competitors><competitors> Artigo 2: Competidores
 
-- 2a) Qualquer pessoa pode participar num campeonato da WCA se:
+- 2a) Qualquer pessoa pode participar numa competição da WCA se:
     - 2a1) Seguir o Regulamento da WCA.
-    - 2a2) Atender aos requisitos da competição, que devem ser claramente anunciados antes da sua realização.
-    - 2a3) Não estiver suspenso pelo Conselho da WCA.
-- 2b) Competidores com menos de 18 anos necessitam ter permissão dos pais ou responsáveis para se inscrever e competir.
-- 2c) Os competidores inscrevem-se fornecendo todas as informações exigidas pela equipa de organização (incluindo: nome, país, data de nascimento, sexo, informações de contato, modalidades escolhidas).
-    - 2c1) Um competidor não está apto a competir sem ter feito a inscrição completa, conforme determinado pela equipa de organização.
+    - 2a2) Atender aos requisitos da competição, que devem ser claramente anunciados antes da competição.
+    - 2a3) Não estiver suspenso pela WCA.
+    - 2a4) Seguir todas as medidas de segurança consideradas necessárias pelo Delegado da WCA, que devem ser claramente anunciadas antes da competição.
+- 2b) Competidores com menos de 18 anos necessitam ter permissão dos seus pai(s) ou responsável(is) para se inscrever e competir.
+- 2c) Os competidores inscrevem-se fornecendo todas as informações exigidas pela equipa de organização (incluindo: nome, país, data de nascimento, sexo, informações de contato, eventos escolhidos).
+    - 2c1) Um competidor não está apto a competir sem ter feito a inscrição completa, conforme determinado pela equipa de organização e o Delegado da WCA.
+    - 2c2) Competidores regressantes devem apresentar informações pessoais de acordo com o seu perfil da WCA. Se um competidor deseja alterar ou atualizar a sua informação pessoal entre competições (Ex.: uma alteração no seu país, nome ou género), o mesmo deverá contactar a Equipa de Resultados da WCA quer diretamente ou via um Delegado da WCA.
 - 2d) O nome, país, sexo e resultados de um competidor na competição são considerados informações públicas. Todas as outras informações pessoais são consideradas confidenciais, e não podem ser fornecidas a entidades ou pessoas externas sem o consentimento do competidor.
-- 2e) Os competidores devem representar um país do qual tenham cidadania. O Delegado da WCA deve verificar essa cidadania por meio de documentos (ex: um passaporte). Se um competidor for considerado inapto a representar o país pelo qual se inscreveu, ele pode ser desqualificado retroativamente e/ou suspenso, a critério do Conselho da WCA.
-    - 2e1) Os países elegívies são definidos pelo artigo da Wikipedia "Anexo:Lista de estados soberanos" ("Estados-membro e observadores da ONU" e "Outros Estados").
-    - 2e2) Competidores com alterações na cidadania podem mudar o seu país de representação na sua primeira competição de um ano civil.
-- 2f) Os competidores devem obedecer às regras do local da competição e portar-se de maneira apropriada.
-- 2g) Os competidores devem permanecer em silêncio quando estiverem dentro da área designada para a competição. É permitido conversar, mas num tom baixo e distante dos competidores que estiverem a competir.
-    - 2g3) Os competidores na Área de Competidores não podem comunicar entre si sobre os embaralhamentos dos quebra-cabeças da ronda em progresso. Penalidade: desqualificação do competidor dessa modalidade, a critério do Delegado da WCA.
-- 2h) Os competidores devem estar totalmente vestidos no local da competição. A critério do Delegado da WCA, competidores podem ser desqualificados da competição por se vestir de maneira inadequada.
-- 2i) Enquanto estiverem a competir, os participantes não podem usar equipamentos eletrónicos ou de áudio (por exemplo telemóveis, leitores de mp3, gravadores, iluminação adicional).
+- 2e) Os competidores devem representar um país do qual tenham cidadania. O Delegado da WCA deve verificar essa cidadania por meio de documentos (Ex.: um passaporte)  na sua primeira competição. Se um competidor for considerado inapto a representar o país pelo qual se inscreveu, ele pode ser desqualificado retroativamente e/ou suspenso, a critério do Conselho da WCA.
+    - 2e1) Os países elegívies são definidos pela Lista de Países Reconnhecidos pela WCA.
+    - 2e2) Competidores podem alterar o seu país em qualquer ponto entre competições (ver [Regra 2c2](regulations:regulation:2c2)), desde que tenha passado ,pelo menos, um ano desde a alteração anterior.
+        - 2e2a) Exceção: Se um competidor perder a cidadania do país que previamente representava, ele deverá alterar o seu país antes ou depois da sua próxima competição.
+    - 2e3) Competidores que não possuem nenhuma cidadania podem competir como "Sem Nação".
+- 2f) Competidores devem obedecer às regras do local da competição e comportar-se de maneira apropriada.
+- 2g) Os competidores devem permanecer em silêncio quando estiverem dentro da área designada para a competição. É permitido conversar, mas deverá ser mantido num nível razoável e distante dos competidores que estiverem a competir naquele momento.
+    - 2g3) Os competidores num mesmo grupo não podem comunicar entre si sobre os embaralhamentos dos puzzles do grupo em progresso. Penalidade: desqualificação do(s) competidor(es) desse evento, a critério do Delegado da WCA. Exceção: Para 3x3x3 em Menos Movimentos e 3x3x3 Vários Cubos Vendado, competidores que já tenham acabado a sua tentativa de resolução podem partilhar e discutir a(s) sequência(s) de embaralhamento com outros competidores do grupo que já tenham terminado ou desistido dessa tentativa.
+        - 2g3a) Para rondas onde os resultados estejam a ser registados em direto, a equipa de organização poderá obrigar que não seja permitido aos competidores ver os resultados publicados do seu grupo até terem acabado as suas tentativas.
+- 2h) Os competidores devem estar apropriadamente vestidos no local da competição. A critério do Delegado da WCA, competidores podem ser desqualificados da competição por se vestir de maneira inadequada.
+- 2i) Enquanto estiverem a inspecionar ou competir, os competidores não podem usar equipamentos eletrónicos (Ex.: telemóveis, auscultadores, iluminação adicional) à parte do temporizador Stackmat ou do cronómetro. Penaliade: desqualificação da tentativa (DNF). Qualquer artigo que possua qualquer componente eletrónica é considerado eletrónico.
     - 2i1) Os competidores podem usar ajudas não-eletrónicas que não dêem uma vantagem injusta, a critério do Delegado da WCA. Isto inclui:
         - 2i1a) Assistência/auxiliares médicos ou físicos usados pelo competidor (ex: óculos, talas para pulsos). Como uma exceção ao [Regra 2i](regulations:regulation:2i), ajudas médicas podem ser eletrónicas se o competidor não tiver alternativas não eletrónicas confortáveis (ex: se o competidor tiver um aparelho auditivo pessoal ou pacemaker).
         - 2i1b) Tampões e protetores de ouvido (mas não auriculares de ouvido com cancelamento eletrónico de ruído).
-    - 2i2) Os competidores podem usar câmaras na zona de resolução segundo critério do Delegado da WCA, mas aplicam-se as seguintes restrições, desde o início da tentativa até que o competidor termine a resolução. Penalidade por quebrar uma restrição: desqualificação da resolução (DNF).
-        - 2i2a) Cada monitor da câmara tem que estar desligado ou fora da linha de vista do competidor (ver [Regra A5b](regulations:regulation:A5b)).
-        - 2i2b) O competidor não pode interagir com (ex: operar, pegar, vestir) qualquer câmara ativa. Exceção: o competidor pode usar uma câmara montada na cabeça, desde que esteja fora da linha de vista e é claro que não está a interagir com esta (para além de a estar a usar).
+        - 2i1c) Aquecedores de mão não-eletrónicos.
+        - 2i1d) Comida e bebida.
+    - 2i2) Os competidores podem usar câmaras e/ou microfones na zona de resolução segundo critério do Delegado da WCA, mas aplicam-se as seguintes restrições, desde o início da tentativa até que o competidor termine a resolução. Penalidade por quebrar uma restrição: desqualificação da resolução (DNF).
+        - 2i2a) Cada monitor da câmara tem que estar desligado ou fora da linha de vista do competidor. Exceção: se um monitor ativo fica na linha de vista do competidor, tentativas completadas não devem ser desqualificadas de o competidor não recebeu ajuda do monitor, a critério do Delegado da WCA (ver [Regra A5b](regulations:regulation:A5b)), no entanto o competidornão deverá realizar nenhum tentativa futura com tal monitor.
+        - 2i2c) O competidor não pode pressionar qualquer botão nesse equipamento (Ex.: para começar ou acabar uma gravação).
+    - 2i4) Competidores deverão desligar todas as notificações equanto estiverem a competir para evitar destúrbios na competição.
 - 2j) O Delegado da WCA pode desqualificar um competidor de uma modalidade específica.
     - 2j1) Se um competidor for desqualificado de uma modalidade por alguma razão, este não tem direito a mais nenhuma tentativa nessa modalidade.
     - 2j2) Se um competidor for desqualificado durante o curso de uma modalidade, os seus resultados anteriores permanecem válidos. Exceção: batotas ou fraudes (ver [Regra 2k2a](regulations:regulation:2k2a)).
