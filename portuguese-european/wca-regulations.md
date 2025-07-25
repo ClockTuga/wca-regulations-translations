@@ -77,7 +77,6 @@ Nota: Uma vez que os números dos artigos não são atualizados quando algum del
 - 2f) Competidores devem obedecer às regras do local da competição e comportar-se de maneira apropriada.
 - 2g) Os competidores devem permanecer em silêncio quando estiverem dentro da área designada para a competição. É permitido conversar, mas deverá ser mantido num nível razoável e distante dos competidores que estiverem a competir naquele momento.
     - 2g3) Os competidores num mesmo grupo não podem comunicar entre si sobre os embaralhamentos dos puzzles do grupo em progresso. Penalidade: desqualificação do(s) competidor(es) desse evento, a critério do Delegado da WCA. Exceção: Para 3x3x3 em Menos Movimentos e 3x3x3 Vários Cubos Vendado, competidores que já tenham acabado a sua tentativa de resolução podem partilhar e discutir a(s) sequência(s) de embaralhamento com outros competidores do grupo que já tenham terminado ou desistido dessa tentativa.
-    - 2g3) Os competidores num mesmo grupo não podem comunicar entre si sobre os embaralhamentos dos puzzles do grupo em progresso. Penalidade: desqualificação do(s) competidor(es) desse evento, a critério do Delegado da WCA. Exceção: Para 3x3x3 em Menos Movimentos e 3x3x3 Vários Cubos Vendado, competidores que já tenham acabado a sua tentativa de resolução podem partilhar e discutir a(s) sequência(s) de embaralhamento com outros competidores do grupo que já tenham terminado ou desistido dessa tentativa.
         - 2g3a) Para rondas onde os resultados estejam a ser registados em direto, a equipa de organização poderá obrigar que não seja permitido aos competidores ver os resultados publicados do seu grupo até terem acabado as suas tentativas.
 - 2h) Os competidores devem estar apropriadamente vestidos no local da competição. A critério do Delegado da WCA, competidores podem ser desqualificados da competição por se vestir de maneira inadequada.
 - 2i) Enquanto estiverem a inspecionar ou competir, os competidores não podem usar equipamentos eletrónicos (Ex.: telemóveis, auscultadores, iluminação adicional) à parte do temporizador Stackmat ou do cronómetro. Penalidade: desqualificação da tentativa (DNF). Qualquer artigo que possua qualquer componente eletrónica é considerado eletrónico.
@@ -330,7 +329,7 @@ Nota: Uma vez que os números dos artigos não são atualizados quando algum del
 - 11f) Decisões sobre um incidente podem ser auxiliadas pela análise de vídeos, fotografias ou provas em áudio, a critério do Delegado da WCA.
     - 11f1) Vídeos, e formas semelhantes de provas gravadas, devem ser revistas em tempo real. Exceção: análise em câmara-lenta e frame-por-frame pode ser usada nas seguintes circunstâncias:
         - 11f1a) O resultado individual é um recorde regional ou um recorde pessoal no Top 50 resultados do ranking do mundo.
-         - 11f2b) A aplicação de uma penalidade conforme a [Regra A3c1](regulations:regulation:A3c1), a [Regra A4b](regulations:regulation:A4b), ou a [Regra A4b1](regulations:regulation:A4b1).
+        - 11f2b) A aplicação de uma penalidade conforme a [Regra A3c1](regulations:regulation:A3c1), a [Regra A4b](regulations:regulation:A4b), ou a [Regra A4b1](regulations:regulation:A4b1).
         - 11f2c) Para investigar batota (ver [Regra 2k](regulations:regulation:2k)).
 - 11g) O Delegado da WCA deve assegurar que cópias do Regulamento e Orientações da WCA estão disponíveis (Ex.: impressa, digital, ou acessíveis por via da Internet) para os oficiais e competidores consultarem em qualquer incidente
 - 11h) Um Delegado da WCA pode pedir a competidores em séria violação da [Regra 2k3](regulations:regulation:2k3) para abandonarem o local da competição, tendo em conta a seriedade da situação e a melhor forma de ação. Se o competidor recusar tal pedido, o mesmo poderá enfrentar ações disciplinares na WCA.
@@ -345,7 +344,7 @@ Nota: Uma vez que os números dos artigos não são atualizados quando algum del
         - 11i2a) Se uma tentativa extra fosse provocar um resultado significativamente mais justo, a tentativa original é considerada inválida (ver [Regra 9l](regulations:regulation:9l).
         - 11i2b) Se uma tentativa extra para um embaralhamento incorreto não consegue ser atribuída devido a causar um resultado significativamente injusto (Ex.: porque o embaralhamento incorreto foi encontrado após a competição) o resultado será considerado com DNS.
 - 11j) Se um competidor recebe incorretamente um embaralhamento que já recebeu previamente, as seguintes regras aplicam-se:
-     - 11j1) Se o competidor acredita que recebeu um embaralhamento duplicado na inspeção, o mesmo deverá parar a sua tentativa e chamar um Delegado de WCA sem aplicar nenhum movimento ao puzzle. Um competidor não deve ser penalizado por receber um embaralhamento incorretamente, a critério do Delegado da WCA.
+    - 11j1) Se o competidor acredita que recebeu um embaralhamento duplicado na inspeção, o mesmo deverá parar a sua tentativa e chamar um Delegado de WCA sem aplicar nenhum movimento ao puzzle. Um competidor não deve ser penalizado por receber um embaralhamento incorretamente, a critério do Delegado da WCA.
     - 11j2) Se erro for descoberto durante o grupo, o Delegado da WCA deverá fazer um esforço para atribuir aos competidor o embaralhamento correto. Uma tentativa extra pode ser atribuída se o Delegado da WCA não tem a certeza de qual seria o embaralhamento correto a atribuir.
     - 11j3) Se o erro for descoberto durante a competição, mas depois do grupo, a tentativa em falta deve ser reposta por uma tentativa extra.
     -  11j4) Se o erro for descoberto apenas após o fim da competição, o resultado será considerado com DNS.
@@ -441,10 +440,7 @@ Nota: Uma vez que os números dos artigos não são atualizados quando algum del
         - A3c3) O competidor pode colocar resetar o temporizador antes de começar a resolução.
         - A3c4) Para Square-1, se estiver definida a utilização de um objeto fino pela equipa de organização (ver [Regra A2b1](regulations:regulation:A2b1)), o competidor tem de remover esse objeto do puzzle durante a inspeção.
         - A3c5) Para Square-1, o competidor não deve ser penalizado por nenhum movimento acidental realizado entre os limites da [Regra 10f](regulations:regulation:10f).
-    - A3d) No final da inspeção, o competidor coloca o puzzle sobre o tapete, em qualquer orientação. O puzzle deve estar totalmente sobre o tapete e não pode estar em parte ou totalmente apoiado no temporizador Stackmat. Penalidade: penalidade de tempo (+2 segundos)
-        - A3d1) O puzzle não pode ficar sobre o temporizador Stackmat. Penalidade: de tempo (+2 segundos).
-        - A3d2) Quando o tempo de inspeção atingir 8 segundos, o juiz diz "8 SEGUNDOS".
-        - A3d3) Quando o tempo de inspeção atingir 12 segundos, o juiz diz "12 SEGUNDOS".
+    - A3d) No final da inspeção, o competidor coloca o puzzle sobre o tapete, em qualquer orientação. O puzzle deve estar totalmente sobre o tapete e não pode estar em parte ou totalmente apoiado no temporizador Stackmat. Penalidade: penalidade de tempo (+2 segundos).
 - A4) Ao início da resolução:
     - A4b) O competidor usa os dedos para tocar na superfície elevada de sensores do temporizador Stackmat. As palmas do competidor dem estar voltadas para baixo do lado do cronómetro mais próximo ao competidor. Penalidade: penalidade de tempo (+2 segundos).
         - A4b1) O competidor não pode ter contacto físico com o puzzle entre o período de inspeção e o início da resolução. Penalidade: de tempo (+2 segundos).
