@@ -73,6 +73,7 @@ Nota: Uma vez que os números dos artigos não são atualizados quando algum del
     - 2e1) Os países elegíveis são definidos pela Lista de Países Reconhecidos pela WCA.
     - 2e2) Competidores podem alterar o seu país em qualquer ponto entre competições (ver [Regra 2c2](regulations:regulation:2c2)), desde que tenha passado, pelo menos, um ano desde a alteração anterior.
         - 2e2a) Exceção: Se um competidor perder a cidadania do país que previamente representava, ele deverá alterar o seu país antes ou depois da sua próxima competição.
+        - 2e2b) Exceção: Se o concorrente tiver adquirido uma nova cidadania dentro do ano civil, poderá alterar o seu país para a sua nova cidadania antes ou na sua próxima competição.
     - 2e3) Competidores que não possuem nenhuma cidadania podem competir como "Sem Nação".
 - 2f) Competidores devem obedecer às regras do local da competição e comportar-se de maneira apropriada.
 - 2g) Os competidores devem permanecer em silêncio quando estiverem dentro da área designada para a competição. É permitido conversar, mas deverá ser mantido num nível razoável e distante dos competidores que estiverem a competir naquele momento.
@@ -219,6 +220,7 @@ Nota: Uma vez que os números dos artigos não são atualizados quando algum del
         - 7f1d) Superfície: A superfície plana na qual o Stackmat foi posicionado. O tapete é considerado parte da Superfície. O temporizador não é considerado parte da Superfície.
     - 7f2) O temporizador deve ser anexado ao Tapete e posicionado na Superfície, com o temporizador na parte do Tapete mais próxima do competidor.
     - 7f3) A equipa de organização deve modificar os temporizadores Stackmat para serem mais robustos contra incidentes comuns, fazendo com que os botões sejam mais difíceis de pressionar por acidente (Ex.: anexando Anéis-O à volta dos botões) e segurando as pilhas mais firmemente (Ex.: estufando o compartimento das pilhas).
+    - 7f4) O temporizador Generation 5 Pro deve ser usado no modo 2-pad.
 - 7h) Se os competidores não permanecerem na mesma estação para o decorrer de todas as suas tentativas numa ronda, a área de competição tem de ter uma ou mais Áreas de Espera para Competidores. Exceção: rondas com tentativas individuais marcadas.
     - 7h2) Definição: Uma Área de Espera para Competidores é uma área na qual os competidores num grupo esperam para ser chamados para uma estação de resolução.
 
@@ -328,7 +330,12 @@ Nota: Uma vez que os números dos artigos não são atualizados quando algum del
     - 11e3) Quando não é claro se um incidente deve resultar numa tentativa extra, pode ser atribuída ao competidor uma tentativa extra provisória que será apenas utilizada se mais tarde se verificar que uma tentativa extra era apropriada (Ex.: por decisão do WRC).
 - 11f) Decisões sobre um incidente podem ser auxiliadas pela análise de vídeos, fotografias ou provas em áudio, a critério do Delegado da WCA.
     - 11f1) Vídeos, e formas semelhantes de provas gravadas, devem ser revistas em tempo real. Exceção: análise em câmara-lenta e frame-por-frame pode ser usada nas seguintes circunstâncias:
-        - 11f1a) O resultado individual é um recorde regional ou um recorde pessoal no Top 50 resultados do ranking do mundo.
+        - 11f1a) O resultado individual é um recorde regional ou um recorde pessoal entre os 50 melhores resultados do ranking mundial.
+        - 11f1b) A média da qual o resultado faz parte é um recorde regional ou um recorde pessoal entre os 50 melhores resultados do ranking mundial.
+        - 11f1c) O resultado é alcançado na ronda final de um Campeonato Nacional, Campeonato Continental ou Campeonato Mundial.
+        - 11f1d) Para apoiar a remoção de qualquer penalidade originalmente aplicada pelo juiz ou pelo Delegado da WCA, consulte a [Regra 11f2a](regulations:regulation:11f2a).
+    - 11f2) As provas obtidas a partir da análise em câmara lenta ou frame-por-frame só podem ser utilizadas para apoiar as seguintes decisões:
+        - 11f2a) O resultado individual é um recorde regional ou um recorde pessoal no Top 50 resultados do ranking do mundo.
         - 11f2b) A aplicação de uma penalidade conforme a [Regra A3c1](regulations:regulation:A3c1), a [Regra A4b](regulations:regulation:A4b), ou a [Regra A4b1](regulations:regulation:A4b1).
         - 11f2c) Para investigar batota (ver [Regra 2k](regulations:regulation:2k)).
 - 11g) O Delegado da WCA deve assegurar que cópias do Regulamento e Orientações da WCA estão disponíveis (Ex.: impressa, digital, ou acessíveis por via da Internet) para os oficiais e competidores consultarem em qualquer incidente
@@ -373,6 +380,7 @@ Nota: Uma vez que os números dos artigos não são atualizados quando algum del
     - 12c1) Os movimentos são aplicados com uma das duas parte menores da camada equatorial do lado esquerdo da face da frente.
     - 12c2) (X,Y) significa: girar a camada superior X vezes 30 graus no sentido horário, girar a camada inferior Y vezes 30 graus no sentido horário. X e Y têm de ser números inteiros entre -5 e 6 e não podem ser ambos igual a 0.
     - 12c3) "/" significa: girar a metade da direita do puzzle 180 graus.
+    - 12c4) Métrica para o Square-1: (X, Y) conta como um movimento, “/” conta como um movimento.
 - 12d) Notação para o Megaminx (notação somente para embaralhamento):
     - 12d1) Movimentos aplicados à face superior:
         - 12d1a) Sentido horário, 72 graus: U (face de cima).
@@ -535,6 +543,7 @@ Nota: Uma vez que os números dos artigos não são atualizados quando algum del
 ## <article-E><fewest-moves><fewestmovessolving> Artigo E: Resolução em Menos Movimentos
 
 - E2) Procedimento para Resolução em Menos Movimentos:
+    - E2a) O juiz distribui uma sequência embaralhamento e um papel a todos os competidores. De seguida, o juiz inicia o cronómetro e dá o sinal de "VÃO".
         - E2a1) Antes da tentativa começar, o competidor não pode escrever em nenhum papel intencionado para a tentativa. Exceção: o competidor pode escrever informação para identificar a tentativa (ver [Regra E2c1](regulations:regulation:E2c1)). Se este escrever informação no papel que contenha a sequência de embaralhamento, ele deve escrever apenas de lado sem a sequência de embaralhamento antes da tentativa. Penalidade por escrever algo para além da informação para identificar a tentativa: desqualificação da tentativa (DNF).
     - E2b) Todos os competidores têm um limite total de tempo de 60 minutos para encontrar e escrever uma solução.
         - E2b1) O juiz deve dizer "FALTAM 5 MINUTOS" quanto o tempo atingir 55 minutos, e deve dizer "PAREM" quando o tempo atingir 60 minutos.
@@ -573,3 +582,8 @@ Nota: Uma vez que os números dos artigos não são atualizados quando algum del
         - H1a1) O competidor não pode mudar o número de após após ter submetido o número à equipa de organização.
         - H1a2) Um competidor pode pedir para manter o número de puzzles privado até que todos os competidores tenham submetido os seus números. Assim que todos tenham dado o número de puzzles a resolver, essa informação passa a ser pública (Ex.: um competidor pode perguntar qual o número de puzzles que outro competidor pretende resolver antes de iniciar a sua tentativa).
         - H1a3) Antes da tentativa, os puzzles embaralhados têm de ser colocados numa orientação aleatória enquanto se assegura que permanecem completamente tapados. Os puzzles devem estar arranjados numa forma o mais quadrada possível e não devem estar empilhados (Ex.: 8 puzzles devem estar arranjados em 2 linhas com 3 puzzles e 1 linha com 2 puzzles e 1 numa só camada).
+    - H1b) Se um competidor estiver a tentar resolver menos de 6 puzzles, é-lhe atribuído um limite de tempo de 10 minutos multiplicado pelo número de puzzles na tentativa, caso contrário, o tempo limite é de 60 minutos.
+      - H1b1) O competidor pode sinalizar o fim da resolução a qualquer momento. Se e quando o limite de tempo for atingido, o juiz interrompe a tentativa e a tentativa é então registada; o tempo limite para a tentativa conta como o tempo original registado.
+    - H1d) As penalidades de tempo para os puzzles da tentativa são cumulativas.
+    - H1e) O competidor não deve aplicar nenhum movimento a um ou mais puzzles durante a fase de memorização. Penalidade: desqualificação da tentativa (DNF). Exceção: esses puzzles individuais podem ser considerados não resolvidos no final da tentativa, em vez de desqualificar toda a tentativa, a critério do Delegado da WCA.
+- H2) O competidor pode fornecer uma cobertura plana (por exemplo, um tapete ou um pano) para a superfície, a critério do Delegado da WCA. Se o competidor desejar fazê-lo, o pedido deve ser feito ao mesmo tempo que o envio do número de puzzles (ver [Regra H1a](regulations:regulation:H1a)).
