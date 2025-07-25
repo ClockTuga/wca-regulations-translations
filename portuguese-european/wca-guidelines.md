@@ -80,6 +80,8 @@ Para ser mais informativo, algumas Regras são classificadas usando uma das segu
 - 3d1b+) [ESCLARECIMENTO] Padrões não precisam de estar presentes em todas as faces, mas apenas as faces onde uma cor distinta não consegue ser distinguida. Peças não podem ter quaisquer especificidades (Ex.: texturas, irregularidades nos padrões) que distingam significativamente peças similares.
 - 3h+) [ESCLARECIMENTO] Puzzles podem ser refinados internamente via areia, lubrificação, ou modificações que aumentem a sua estabilidade (Ex.: ímanes).
 - 3h++) [EXEMPLO] Exemplos de melhorias incluem: novos movimentos são possíveis, movimentos normais são impossíveis, mais peças ou faces estão visíveis, cores na parte de trás do puzzle estão visíveis, movimentos são feitos automaticamente, ou os puzzles têm mais/diferentes estados resolvidos.
+- 3h2++) [ESCLARECIMENTO] Puzzle "sem autocolantes" que diferem significativamente da maioria dos puzzles "sem autocolantes" produzidos em massa são apenas permitidos a critério do Delegado da WCA.
+- 3h2a+) [ADIÇÃO] Exemplos de peças transparentes que não revelam mais informação sobre o estado do puzzle: peças internas do mecanismo do puzzle, capas de Clock transparentes.
 - 3h4+) [ESCLARECIMENTO] Para Clock, modificações visuais que melhorem a habilidade de determinar a orientação do puzzle são permitidas, visto que designs tradicionais do puzzle já fornecem esta informação.
 - 3j++) [ADIÇÃO] Existe um [Guia Visual](https://drive.google.com/file/d/1m6THsA8fXRN7QFM4ApJbm6eVODKGbMLx/view) disponível para a [ver Regra 3j](regulations:regulation:3j).
 - 3k2+) [ADIÇÃO] O Delegado da WCA não deve aplicar uma exceção listada caso acredite que o competidor tentou usar um puzzle não permitido com intenção de tal.
@@ -118,7 +120,7 @@ Para ser mais informativo, algumas Regras são classificadas usando uma das segu
 
 ## <article-7><environment><environment> Artigo 7: Ambiente
 
-- 7f1+) [ESCLARECIMENTO] Um tapete de tamanho completo deve ter dimensões mínimas de 30cm (esquerda para a direita) por 25cm (frente para trás).
+- 7f1a+) [ESCLARECIMENTO] Um tapete de tamanho completo deve ter dimensões mínimas de 30cm (esquerda para a direita) por 25cm (frente para trás).
 - 7h2+) [ADIÇÃO] Os Competidores na Área de Espera de Competidores não devem ser capazes de ver os puzzles dos competidores no palco.
 
 
@@ -223,8 +225,6 @@ Para ser mais informativo, algumas Regras são classificadas usando uma das segu
 
 ## <article-B><blindfolded><blindfoldedsolving> Artigo B: Resolução Vendada
 
-- B1+) [LEMBRETE] O competidor deve usar um puzzle sem texturas, marcas ou outras características que distingam peças semelhantes (ver [Regra 3k](regulations:regulation:3k)). Isto deve receber atenção especial para a resolução vendada. Exceção: Para o 3x3x3 Vendado, o puzzle pode ter quaisquer logótipos permitidos pela [Regra 3l](regulations:regulation:3l).
-- B1b+) [RECOMENDAÇÃO] As vendas devem ser verificadas pelo Delegado da WCA antes de serem utilizadas na competição.
 - B1+) [LEMBRETE] O competidor deve usar um puzzle sem texturas, marcas ou outras características que distingam peças semelhantes (ver [Regra 3k](regulations:regulation:3k)). Isto deve receber atenção especial para a resolução vendada. Exceção: Para o 3x3x3 Vendado, o puzzle pode ter quaisquer logótipos permitidos pelo Regulamento 3l.
 - B1b+) [RECOMENDAÇÃO] As vendas devem ser verificadas pelo Delegado da WCA antes de serem utilizadas na competição.
 - B2d+) [ADIÇÃO] Por padrão, o competidor começa a resolução na primeira vez que inicia o temporizador após o juiz indicar que está pronto (ver [Regra B2a](regulations:regulation:B2a)). Se quiser verificar se o temporizador está a funcionar corretamente, deve (pedir e) receber confirmação do juiz cada vez que iniciar/reiniciar o temporizador durante esta fase. Penalidade por iniciar e reiniciar um temporizador sem confirmação do juiz: desqualificação da tentativa (DNF).
