@@ -22,7 +22,7 @@ Fonte original do Regulamento da WCA: [www.worldcubeassociation.org/regulations]
 Regulamento da WCA em [Formato PDF](link:pdf)
 
 ### Código Fonte
-O desenvolvimento do Regulamento da WCA é público no [GitHub](https://github.com/thewca/wca-documents) e a discussão é pública [no Fórum da WCA](https://forum.worldcubeassociation.org/c/regulations/5).
+O desenvolvimento do Regulamento da WCA é público [no GitHub](https://github.com/thewca/wca-regulations) e a discussão é pública [no Fórum da WCA](https://forum.worldcubeassociation.org/c/regulations).
 
 ### Contacto
 Para questões e sugestões, por favor contate o [Comité Regulador da WCA (WRC)](mailto:wrc@worldcubeassociation.org).
@@ -30,12 +30,12 @@ Para questões e sugestões, por favor contate o [Comité Regulador da WCA (WRC)
 ### Legenda
 Para ser mais informativo, cada Regras é classificada usando uma das seguintes indicações. Note que estas devem ser tratadas como metadados, não como uma descrição do seu valor.
 
-- [ADIÇÃO] Informação adicional para suplementar outras Regras.
-- [ESCLARECIMENTO] Informação para esclarecer eventuais dúvidas sobre a interpretação do Regulamento.
-- [EXPLICAÇÃO] Informação que esclarece a intenção do Regulamento.
-- [RECOMENDAÇÃO] Algo que não é estritamente obrigatório, mas que deve ser feito sempre que possível.
-- [LEMBRETE] Informação que pode ser abordada por outras Regras, mas cuja relevância vale a pena reiterar.
-- [EXEMPLO] Um exemplo de como aplicar uma Regra.
+- <label>[ADIÇÃO] Informação adicional para suplementar outras Regras.
+- <label>[ESCLARECIMENTO] Informação para esclarecer eventuais dúvidas sobre a interpretação do Regulamento.
+- <label>[EXPLICAÇÃO] Informação que esclarece a intenção do Regulamento.
+- <label>[RECOMENDAÇÃO] Algo que não é estritamente obrigatório, mas que deve ser feito sempre que possível.
+- <label>[LEMBRETE] Informação que pode ser abordada por outras Regras, mas cuja relevância vale a pena reiterar.
+- <label>[EXEMPLO] Um exemplo de como aplicar uma Regra.
 
 ## <contents> [Conteúdo](regulations:contents)
 Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando algum deles é apagado, podem existir saltos na numeração.
@@ -46,7 +46,7 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
 ### <article-1><officials><officials> Artigo 1: Oficiais
 
 - 1a) Uma competição requer a presença de um Delegado da WCA e uma equipa de organização (composta por um ou mais elementos) com os seguintes oficiais: juízes, embaralhadores e registadores de resultados.
-    - 1a1) Uma competição com uma ou mais rondas Frente a Frente (ver [Artigo E](regulations:article:E)) deve ter também um ou mais apresentadores.
+    - 1a1) Uma competição com uma ou mais rondas Frente a Frente (ver [Artigo I](regulations:article:I)) deve ter também um ou mais apresentadores.
 - 1b) A equipa de organização de uma competição é responsável pela logística antes, durante e depois da competição.
 - 1c) O Delegado da WCA é responsável por assegurar que a competição vai ao encontro do Regulamento da WCA e/ou qualquer política, ou requerimento da aplicável da WCA. O Delegado da WCA pode designar outros membros da Equipa de Organização para levar a cabo responsabilidades na sua vez, mas em último caso é responsável pela forma como as responsabilidades são levadas a cabo.
 - 1c+) [ESCLARECIMENTO] Se existirem vários Delegados da WCA designados para a competição, "o Delegado da WCA" refere-se a qualquer um dos mesmos. "O Delegado da WCA" também se refere a qualquer pessoa apontada pelo Delegado da WCA para uma responsabilidade relevante para o Delegado da WCA da competição.
