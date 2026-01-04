@@ -22,7 +22,7 @@ the official [World Cube Association Competition Regulations](https://worldcubea
 |competition area|área de competição|
 |competitor|competidor|
 |cover|cobertura|
-|cutoff round|ronda de corte|
+|cutoff round|ronda de tempo de corte|
 |disqualification|desqualificação|
 |disqualify|desqualificar|
 |DNF|DNF|
