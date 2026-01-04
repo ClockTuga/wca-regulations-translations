@@ -809,7 +809,7 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
 
 - I1) Qualificação e classificação:
     - I1a) O número de vagas disponíveis numa ronda Frente a Frente deve ser um dos seguintes: 4, 8, 12 ou 16.
-    - I1b) Para rondas Frente a Frente com uma ronda prévia, a classificação é baseada na classificação do competidor na ronda anterior.
+    - I1b) Para rondas Frente a Frente com uma ronda anterior, a classificação é baseada na classificação do competidor na ronda anterior.
     - I1c) Para rondas Frente a Frente sem uma ronda anterior, a classificação é baseada nos requisitos de qualificação para a competição.
     - I1d) Se os competidores tiverem classificações idênticas, a classificação entre esses competidores é aleatória.
 - I2) Estrutura da ronda:
@@ -824,7 +824,7 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
         - I2b3) Fase dos Quartos de Final: 4 partidas.
         - I2b4) Fase de Playoff: 4 partidas.
         - I2b5) Fase dos Oitavos de Final: 8 partidas.
-    - I2c) As partidas na primeira fase de uma ronda são baseados na classificação dos competidores. O competidor com a classificação mais alta é confrontado com o competidor com a classificação mais baixa. O competidor com a segunda classificação mais alta é confrontado com o competidor com a segunda classificação mais baixa. Este processo é repetido até que todos os competidores tenham sido emparelhados.
+    - I2c) As partidas na primeira fase de uma ronda são baseadas na classificação dos competidores. O competidor com a classificação mais alta é confrontado com o competidor com a classificação mais baixa. O competidor com a segunda classificação mais alta é confrontado com o competidor com a segunda classificação mais baixa. Este processo é repetido até que todos os competidores tenham sido emparelhados.
         - I2c1) Exceção: para rondas com 12 vagas, os 4 competidores com melhor classificação não participam na Fase de Playoff, mas enfrentam os vencedores da Fase de Playoff durante a Fase dos Quartos de Final.
     - I2d) O vencedor de cada partida durante a Fase dos Oitavos de Final, Fase de Playoff e Fase dos Quartos de Final avança para a fase seguinte. O perdedor é eliminado.
     - I2e) O vencedor de cada partida durante a Fase de Semifinal participa na Partida Final durante a Fase Final. O perdedor de cada partida durante a Fase Semifinal participa na Partida pelo Terceiro Lugar durante a Fase Final.
@@ -840,15 +840,15 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
     - I3d) Se nenhum dos competidores tiver um resultado melhor, nenhum deles ganha o ponto.
     - I3e) Se nenhum dos competidores ganhar um set após 7 pontos, o competidor com mais pontos ganha o set. Se ambos os competidores tiverem o mesmo número de pontos, o competidor com o melhor resultado individual no set ganha o set. Se nenhum dos competidores tiver o melhor resultado individual no set, são considerados os melhores resultados individuais na partida e, em seguida, os resultados individuais na ronda. Se necessário, as classificações dos competidores atuam como desempate final, com o competidor com a classificação mais alta a ganhar o set.
 - I4) Procedimentos de resolução em velocidade "speed solving" Frente a Frente:
-    - I4a) São seguidos os procedimentos padrões de resolução em velocidade "speed solving", conforme descrito no [Artigo A](regulations:article:A). Regulamentos adicionais que substituem os procedimentos correspondentes no Artigo A são descritos abaixo.
+    - I4a) São seguidos os procedimentos padrões de resolução em velocidade "speed solving", conforme descrito no [Artigo A](regulations:article:A). Regras adicionais que substituem os procedimentos correspondentes no Artigo A são descritos abaixo.
     - I4b) Embaralhamento:
         - I4b1) Os competidores numa partida devem usar as mesmas sequências de embaralhamento entre si para um ponto. Cada ponto deve usar sequências de embaralhamento diferentes e cada partida deve usar sequências de embaralhamento diferentes.
     - I4c) Inspeção:
         - I4c1) Quando ambos os competidores estiverem presentes na estação de resolução e quando cada juiz estiver pronto, o apresentador pergunta "PRONTOS?".
         - I4c2) Quando ambos os competidores confirmarem que estão prontos, ou após pelo menos 15 segundos, o apresentador diz "COMEÇAR" e inicia a contagem do tempo de inspeção, dando início ao ponto.
-        - I4c3) Quando 8 segundos de inspeção tiverem decorrido, o locutor diz "8 SEGUNDOS".
-        - I4c4) Quando 11 segundos, 12 segundos e 13 segundos de inspeção tiverem decorrido, o locutor diz "3", "2" e "1", respetivamente.
-        - I4c5) Quando 14 segundos de inspeção tiverem decorrido, o locutor diz "VÃO". O competidor deve iniciar a resolução (ver [Regra A4d](regulations:regulation:A4d)) neste momento. Penalidade por atrasar intencionalmente o início da resolução: desqualificação da tentativa (DNF), a critério do juiz.
+        - I4c3) Quando 8 segundos de inspeção tiverem decorrido, o apresentador diz "8 SEGUNDOS".
+        - I4c4) Quando 11 segundos, 12 segundos e 13 segundos de inspeção tiverem decorrido, o apresentador diz "3", "2" e "1", respetivamente.
+        - I4c5) Quando 14 segundos de inspeção tiverem decorrido, o apresentador diz "VÃO". O competidor deve iniciar a resolução (ver [Regra A4d](regulations:regulation:A4d)) neste momento. Penalidade por atrasar intencionalmente o início da resolução: desqualificação da tentativa (DNF), a critério do juiz.
         - I4c6) Devido aos procedimentos de inspeção modificados, as penalidades habituais por não começar dentro de 15 segundos (ver [Regra A4d1](regulations:regulation:A4d1) e [Regra A4d2](regulations:regulation:A4d2)) não se aplicam nas rondas Frente a Frente.
         - I4c7) O competidor não deve começar a resolução antes que o apresentador diga "VÃO". Penalidade: desqualificação da tentativa (DNF), a critério do juiz.
     - I4d) Anotação dos resultados:
@@ -858,4 +858,4 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
     - I5b) Início da tentativa:
         - I5b1) Quando ambos os competidores estiverem presentes na estação de resolução e quando cada juiz estiver pronto, o apresentador pergunta "PRONTOS?".
         - I5b2) Quando ambos os competidores confirmarem que estão prontos, ou após pelo menos 15 segundos, o apresentador diz "3, 2, 1, VÃO". O competidor deve iniciar a resolução (ver [Regra B2d](regulations:regulation:B2d)) neste momento. Penalidade por atrasar intencionalmente o início da resolução: desqualificação da tentativa (DNF), a critério do juiz.
-        - I5b3) O competidor não deve iniciar a resolução antes que o locutor diga "VÃO". Penalidade: desqualificação da tentativa (DNF), a critério do juiz.
+        - I5b3) O competidor não deve iniciar a resolução antes que o apresentador diga "VÃO". Penalidade: desqualificação da tentativa (DNF), a critério do juiz.
