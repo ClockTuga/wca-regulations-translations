@@ -30,6 +30,13 @@ Para questões e sugestões, por favor contate o [Comité Regulador da WCA (WRC)
 ### Legenda
 Para ser mais informativo, cada Regras é classificada usando uma das seguintes indicações. Note que estas devem ser tratadas como metadados, não como uma descrição do seu valor.
 
+- [ADIÇÃO] Informação adicional para suplementar outras Regras.
+- [ESCLARECIMENTO] Informação para esclarecer eventuais dúvidas sobre a interpretação do Regulamento.
+- [EXPLICAÇÃO] Informação que esclarece a intenção do Regulamento.
+- [RECOMENDAÇÃO] Algo que não é estritamente obrigatório, mas que deve ser feito sempre que possível.
+- [LEMBRETE] Informação que pode ser abordada por outras Regras, mas cuja relevância vale a pena reiterar.
+- [EXEMPLO] Um exemplo de como aplicar uma Regra.
+
 ## <contents> [Conteúdo](regulations:contents)
 Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando algum deles é apagado, podem existir saltos na numeração.
 
@@ -39,7 +46,7 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
 ### <article-1><officials><officials> Artigo 1: Oficiais
 
 - 1a) Uma competição requer a presença de um Delegado da WCA e uma equipa de organização (composta por um ou mais elementos) com os seguintes oficiais: juízes, embaralhadores e registadores de resultados.
-    - 1a1) Uma competição com uma ou mais rondas Frente a Frente (ver [Artigo E](regulations:article:E)) deve ter um ou mais apresentadores.
+    - 1a1) Uma competição com uma ou mais rondas Frente a Frente (ver [Artigo E](regulations:article:E)) deve ter também um ou mais apresentadores.
 - 1b) A equipa de organização de uma competição é responsável pela logística antes, durante e depois da competição.
 - 1c) O Delegado da WCA é responsável por assegurar que a competição vai ao encontro do Regulamento da WCA e/ou qualquer política, ou requerimento da aplicável da WCA. O Delegado da WCA pode designar outros membros da Equipa de Organização para levar a cabo responsabilidades na sua vez, mas em último caso é responsável pela forma como as responsabilidades são levadas a cabo.
 - 1c+) [ESCLARECIMENTO] Se existirem vários Delegados da WCA designados para a competição, "o Delegado da WCA" refere-se a qualquer um dos mesmos. "O Delegado da WCA" também se refere a qualquer pessoa apontada pelo Delegado da WCA para uma responsabilidade relevante para o Delegado da WCA da competição.
@@ -57,7 +64,7 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
 - 1h) Os competidores numa mesma ronda de um evento podem competir num só grupo ou ser divididos em vários grupos.
 - 1h+) [RECOMENDAÇÃO] Competidores que estejam no mesmo grupo devem usar as mesmas sequências de embaralhamento. Grupos diferentes devem usar sequências de embaralhamento diferentes.
 - 1h++) [RECOMENDAÇÃO] Todas as tentativas numa ronda final de um evento, também como todas as tentativas de 3x3x3 em Menos Movimentos, devem ter as mesmas sequências de embaralhamento para todos os competidores (Ex.: apenas 1 grupo).
-- 1h+++) [ADIÇÃO] Competidores pedir para competir numa altura diferente da hora marcada para a ronda num grupo separado. O Delegado da WCA deve cuidadosamente considerar a justiça e a praticabilidade da situação antes de aprovar tais pedidos, e deve assegurar que tais tentativas estão conforme a [Regra 9l](regulations:regulation:9l).
+- 1h+++) [ADIÇÃO] Competidores pedir para competir numa altura diferente da hora marcada para a ronda num grupo separado. O Delegado da WCA deve cuidadosamente considerar a justiça e a praticabilidade da situação antes de aprovar tais pedidos, e deve assegurar que tais tentativas estão conforme a [Regra 9l](regulations:regulation:9l) (ou seja, devem começar depois de todos os competidores terem terminado as suas tentativas de qualquer ronda anterior do mesmo evento e terminar antes de qualquer competidor ter iniciado uma tentativa para qualquer ronda seguinte do mesmo evento). Os competidores que solicitem tais adaptações deverão contactar a equipa de organização e o Delegado da WCA antes da competição. Exceção: não são permitidas tais adaptações para 3x3x3 em Menos Movimentos, que especifica as suas próprias adaptações limitadas na [Regra E6](regulations:regulation:E6).
     - 1h1) Embaralhadores e juízes de uma ronda não devem embaralhar ou ajuizar competidores do seu próprio grupo antes de terem terminado todas as suas tentativas dessa ronda.
         - 1h1a) Para 3x3x3 em Menos Movimentos, juízes podem ajuizar competidores no seu grupo antes de terem terminado a sua tentativa (enquanto estão a competir).
         - 1h1a+) [ESCLARECIMENTO] Juízes que estão a competir numa tentativa de 3x3x3 em Menos Movimentos que estão a ajuizar não podem começar a avaliação de tentativas até terem terminado a sua própria tentativa. Eles podem começar a avaliação antes dos 60 minutos se tiverem submetido a sua tentativa anteriormente (ver [Regra E2b+)](regulations:regulation:E2b+)). Os mesmos devem arranjar outro juiz para avaliar a sua própria tentativa.
@@ -78,7 +85,7 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
 - 2c) Os competidores inscrevem-se fornecendo todas as informações exigidas pela equipa de organização (incluindo: nome, país, data de nascimento, informações de contacto, eventos selecionados).
 - 2c+) [ADIÇÃO] Competidores principiantes devem registar o seu nome legal ou o nome pelo qual preferem ser chamados. Apelidos devem ser apelidos legais.
     - 2c1) Um competidor não está apto a competir sem ter feito a inscrição completa, conforme determinado pela equipa de organização e o Delegado da WCA.
-    - 2c2) Competidores regressantes devem apresentar informações pessoais conforme o seu perfil da WCA. Se um competidor deseja alterar ou atualizar a sua informação pessoal entre competições (Ex.: uma alteração no seu país, nome ou género), o mesmo deverá contactar a Equipa de Resultados da WCA quer diretamente ou via um Delegado da WCA.
+    - 2c2) Competidores regressantes devem apresentar informações pessoais conforme o seu perfil da WCA. Se um competidor deseja alterar ou atualizar a sua informação pessoal entre competições (Ex.: uma alteração no seu país, nome ou género), o mesmo deverá [contactar a Equipa de Resultados da WCA](https://www.worldcubeassociation.org/contact?contactRecipient=wrt) quer diretamente ou via um Delegado da WCA.
     - 2c2+) [ESCLARECIMENTO] Um perfil da WCA é a coleção de dados relativos a um competidor, e inclui informação pessoal (nome, país, género e data de nascimento) como também todos os seus resultados em competições oficiais da WCA).
 - 2d) O nome, país, sexo e resultados de um competidor na competição são considerados informações públicas. Todas as outras informações pessoais são consideradas confidenciais, e não podem ser fornecidas a entidades ou pessoas externas sem o consentimento do competidor.
 - 2d+) [ADIÇÃO] Data de nascimento e informações para contacto devem estar especialmente seguras.
@@ -86,7 +93,7 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
 - 2e) Os competidores devem representar um país do qual tenham cidadania. O Delegado da WCA deve verificar essa cidadania por meio de documentos (Ex.: um passaporte) na sua primeira competição.
 - 2e+) [ESCLARECIMENTO] Se um competidor tiver várias cidadanias, o mesmo pode escolher que região pretende representar na sua primeira competição.
 - 2e++) [ADIÇÃO] O Delegado da WCA deve também verificar o nome e data de nascimento mediante documentos ou fotos de documentos (Ex.: um passaporte) de todos os competidores principiantes na sua primeira competição.
-    - 2e1) Os países elegíveis são definidos pela Lista de Países Reconhecidos pela WCA.
+    - 2e1) Os países elegíveis são definidos pela [Lista de Países Reconhecidos pela WCA](https://www.worldcubeassociation.org/regulations/countries/).
     - 2e2) Competidores podem alterar o seu país em qualquer ponto entre competições (ver [Regra 2c2](regulations:regulation:2c2)), desde que tenha passado, pelo menos, um ano desde a alteração anterior.
         - 2e2a) Exceção: Se um competidor perder a cidadania do país que previamente representava, ele deverá alterar o seu país antes ou depois da sua próxima competição.
         - 2e2b) Exceção: Se o concorrente tiver adquirido uma nova no ano civil, poderá alterar o seu país para a sua nova cidadania antes ou na sua próxima competição.
@@ -114,7 +121,7 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
     - 2j2) Resultados de tentativas anteriores que são completados quando a desqualificação é aplicada não podem ser desqualificados. Exceção: batota ou fraude (ver [Regra 2k2a](regulations:regulation:2k2a)).
     - 2j2+) [EXEMPLO] Por exemplo, se um competidor é desqualificado de um evento pela sua falta de comparência para a ronda final, os seus resultados de rondas anteriores permanecem válidos.
     - 2j2++) [EXEMPLO] Se o Delegado da WCA desqualificar um competidor durante a sua terceira tentativa numa ronda, apenas a terceira tentativa e todas as seguintes são desqualificadas, mesmo que as circunstâncias que originaram a desqualificação tenham ocorrido antes dessa tentativa.
-    - 2j3) Tentativas específicas completadas podem ser desqualificas dentro das circunstâncias descritas em [Regra 2k](regulations:regulation:2k)
+    - 2j3) Tentativas específicas completadas podem ser desqualificas dentro das circunstâncias descritas na [Regra 2k](regulations:regulation:2k), apenas se o incidente relevante tiver ocorrido durante a tentativa.
 - 2k) Segundo critério do Delegado da WCA, um competidor pode ser desqualificado de algumas tentativas e/ou eventos específicos (um único evento, vários eventos, ou todos os eventos) se este:
     - 2k1) Não se apresentar ou se inscrever a tempo para a competição.
     - 2k2) For suspeito de batota ou defraudar os oficiais durante a competição.
@@ -177,7 +184,7 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
         - 3h4d) Logótipos em qualquer parte do puzzle, desde que as faces dos relógios interiores permaneçam destapadas.
     - 3h5) Para Clock, pinos soltos (pinos que são pressionados ou subidos através de gravidade em vez de serem diretamente pressionados) não são considerados equipamento razoável, e puzzles com tais pinos não devem ser permitidos.
 - 3j) Os puzzles devem estar limpos, e não podem ter nenhuma marca, peça elevada, dano ou outras diferenças que distingam significativamente uma peça de outra peça similar. Exceção: um logótipo [ver Regra 3l](regulations:regulation:3l).
-- 3j++) [ADIÇÃO] Existe um [Guia Visual](https://drive.google.com/file/d/1m6THsA8fXRN7QFM4ApJbm6eVODKGbMLx/view) disponível para a [ver Regra 3j](regulations:regulation:3j).
+- 3j++) [ADIÇÃO] Existe um [Guia Visual](https://drive.google.com/file/d/1m6THsA8fXRN7QFM4ApJbm6eVODKGbMLx/view) disponível para a [Regra 3j](regulations:regulation:3j).
     - 3j1) Os puzzles podem ter desgaste razoável, a critério do Delegado da WCA.
         - 3j1a) Desgaste deverá ser considerado razoável se tal resulta do uso normal do puzzle e o mesmo não dá informação significativa adicional sobre o estado do puzzle (Ex.: sobre a localização de peças específicas).
     - 3j2) Definição: Duas peças são semelhantes entre si se elas forem idênticas em forma e tamanho, ou espelhadas em forma e idênticas em tamanho.
@@ -203,7 +210,7 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
 - 4a) Um embaralhador aplica as sequências de embaralhamento aos puzzles resolvidos.
     - 4a1) Exceção: para tentativas extras para o Cubo 5x5x5, Cubo 6x6x6, Cubo 7x7x7 e Megaminx, a sequência de embaralhamento pode ser aplicada a um quebra-cabeça não resolvido, a critério do Delegado da WCA. Esta exceção aplica-se apenas a sequências de embaralhamento para tentativas extras. Ao aplicar uma sequência de embaralhamento a um puzzle não resolvido, o embaralhamento pode começar em qualquer orientação, não se aplicando os requisitos habituais da [Regra 4d](regulations:regulation:4d).
     - 4a1+) [RECOMENDAÇÃO] O Delegado da WCA deve usar um critério mais rigoroso ao determinar se a sequência de embaralhamento pode ou não ser aplicada a um puzzle não resolvido para o Cubo 5x5x5 e o Megaminx.
-- 4b) As sequências de embaralhamento para competição têm de ser gerada usando uma versão atual oficial de um programa oficial de embaralhamento da WCA (disponível através do website da WCA).
+- 4b) As sequências de embaralhamento para competição têm de ser gerada usando uma versão atual oficial de um programa oficial de embaralhamento da WCA (disponível [através do sítio web da WCA](https://www.worldcubeassociation.org/regulations/scrambles/).
 - 4b+) [RECOMENDAÇÃO] O Delegado da WCA deve gerar sequências de embaralhamento suficientes para a competição inteira previamente, incluindo sequências de embaralhamento a mais para tentativas extra.
 - 4b++) [LEMBRETE] Se o Delegado da WCA gerar quaisquer sequências de embaralhamento adicionais durante a competição, as sequências de embaralhamento devem ser guardadas.
     - 4b1) As sequências de embaralhamento geradas não podem ser inspecionadas antes da competição, e não podem ser filtradas ou selecionadas de nenhuma maneira pelo Delegado da WCA.
@@ -217,7 +224,7 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
         - 4b3a) Para eventos vendados, a sequência de embaralhamento deve orientar o puzzle aleatoriamente (igual probabilidade para cada orientação).
         - 4b3b) Cubo 2x2x2: O estado (aleatório) deve necessitar de, pelo menos, 4 movimentos para ser resolvido.
         - 4b3c) Skewb: O estado (aleatório) deve necessitar de, pelo menos, 7 movimentos para ser resolvido.
-        - 4b3d) Square-1: O estado (aleatório) deve necessitar de, pelo menos, 11 movimentos para ser resolvido. O estado (aleatório) deve permitir que um movimento / possa ser aplicado sem um movimento (X, Y) prévio [ver Regra 12c](regulations:regulation:12c).
+        - 4b3d) Square-1: O estado (aleatório) deve necessitar de, pelo menos, 11 movimentos para ser resolvido. O estado (aleatório) deve permitir que um movimento / possa ser aplicado sem um movimento (X, Y) prévio ([ver Regra 12c](regulations:regulation:12c)).
         - 4b3e) Cubo 5x5x5, Cubo 6x6x6, Cubo 7x7x7 e Megaminx: número suficientemente grande de movimentos aleatórios (em vez de estado aleatório), com pelo menos 2 movimentos para ser resolvido.
         - 4b3f) Pyraminx: O estado (aleatório) deve necessitar de, pelo menos, 6 movimentos para ser resolvido.
     - 4b4) Cada sequência de embaralhamento deve ser aplicada num espaço de tempo máximo de 2 horas. Este espaço de tempo começa quando a sequência de embaralhamento é aplicada pela primeira vez.
@@ -322,7 +329,7 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
     - 9f4) O resultado de uma tentativa é registado como DNF ("Did Not Finish") se a tentativa foi desqualificada ou não foi finalizada/resolvida.
     - 9f4+) [ESCLARECIMENTO] O resultado de uma tentativa deve ser um DNF se o competidor começar a tentativa por indicar a sua prontidão (ver [Regra A3b2](regulations:regulation:A3b2)), mas a tentativa foi desqualificada.
         - 9f4a) Se um competidor viola uma regra de maneira clara o suficiente que a tentativa será de certeza desqualificada, o juiz deverá para imediatamente a tentativa. Se o juiz não tem a certeza ou uma disputa seria disruptiva (Ex.: porque uma tentativa extra poderia atrasar a competição), o juiz deve consultar o Delegado da WCA.
-    - 9f5) O resultado de uma tentativa é registado como DNS ("Did Not Start") se o competidor teve direito a uma tentativa, mas desiste dela.
+    - 9f5) O resultado de uma tentativa é registado como DNS ("Did Not Start") se o competidor teve direito a uma tentativa, mas desiste dela (ver [Regra A3b2](regulations:regulation:A3b2)).
     - 9f5+) [ESCLARECIMENTO] Se o competidor não se classificou para a tentativa (Ex.: numa Ronda de Tempo de Corte), ele não tem qualquer resultado para a tentativa.
         - 9f5a) Se um competidor não tiver resultados ou tiver apenas resultados de DNS para uma ronda, nenhum resultado será registado.
         - 9f5b) Numa ronda frente a frente, se um competidor não iniciar nenhuma tentativa, nenhum resultado será registado para essa partida, nem para ele, nem para o seu adversário (ver [Regra I2h](regulations:regulation:I2h)).
@@ -353,7 +360,7 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
 - 9k) Todos os competidores podem participar em todos os eventos de uma competição, exceto em casos especificamente aprovados pela Equipa de Anúncio de Competições da WCA.
 - 9l) Cada ronda deve ser terminar antes que qualquer ronda seguinte desse mesmo evento inicie. As seguintes exceções são aplicadas:
     - 9l1) Podem ser concedidas tentativas extra em qualquer momento durante uma competição para substituir uma tentativa inicialmente inválida, mas não devem ser concedidas após o término da competição (ver [Regra 9u](regulations:regulation:9u)). Uma tentativa é considerada inválida se for necessário conceder uma tentativa extra.
-    - 9l1+) [ESCLARECIMENTO] Um resultado de DNF é geralmente considerado como um resultado válido. Tentativas extra não devem ser dadas devido ao uso de um puzzle não permitido que só é detetado após a ronda estar completada.
+    - 9l1+) [ESCLARECIMENTO] Um resultado de DNF é geralmente considerado como um resultado válido. Tentativas extra não devem ser dadas devido ao uso de um puzzle não permitido que só é detetado após a ronda estar completada (ver [Regra 3k2a](regulations:regulation:3k2a)).
     - 9l1++) [EXEMPLO] Exemplos de uma tentativa inválida: uma tentativa no âmbito da [Regra 11i1](regulations:regulation:11i1) que foi incorretamente embaralhada, tentativas onde os resultados não são recuperáveis (Ex.: uma folha de resultados em falta).
     - 9l2) Para Rondas Duplas, a segunda ronda pode começar antes da conclusão da primeira ronda. Isto porque a progressão para a segunda ronda não depende dos resultados da primeira ronda (ver [Regra 9v5](regulations:regulation:9v5).
 - 9m) Os eventos podem ter no máximo quatro rondas.
@@ -379,7 +386,7 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
     - 9p4) Um competidor com resultados só DNF e/ou DNS não está elegível para avançar para a próxima ronda.
 - 9q+) [RECOMENDAÇÃO] Eventos e rondas devem ter pelo menos dois competidores.
 - 9s) Cada ronda de um evento deve ter um limite de tempo (ver [Regra A1a](regulations:regulation:A1a)).
-- 9t) Se alguma alteração nos resultados de um competidor após a competição ter terminado (Ex.: engano no registo de tempo, penalidade atribuída retroativamente), de forma a que tal competidor não teria avançado para a próxima ronda (ou não lhe foi autorizada a participação na ronda posterior), todos os resultados desse competidor têm de ser removidos (ver [Regra 9p1](regulations:regulation:9p1)).
+- 9t) Se alguma alteração nos resultados de um competidor após a competição ter terminado (Ex.: engano no registo de tempo, penalidade atribuída retroativamente), de forma a que tal competidor não teria avançado para a próxima ronda (ou não lhe foi autorizada a participação na ronda posterior), todos os resultados desse competidor têm de ser removidos (ver [Regra 9u](regulations:regulation:9u)).
 - 9t+) [EXPLICAÇÃO] Devido às Regras [9t1](regulations:regulation:9t1) e [9t2](regulations:regulation:9t2), rondas podem parecer que não cumprem com as Regras [9p1](regulations:regulation:9p1), [9m1](regulations:regulation:9m1), [9m2](regulations:regulation:9m2) ou [9m3](regulations:regulation:9m3). No entanto, fazer alterações para cumprir com estas Regras iria afetar competidores inocentes, sendo a razão pela qual os resultados devem ficar iguais.
 - 9t++) [ADIÇÃO] Se a alteração de resultados acontecer durante a competição, esta Regra deve também ser aplicada. Nesse caso, as Regras [9t1](regulations:regulation:9t1), [9t2](regulations:regulation:9t2) e [9t3](regulations:regulation:9t3) devem também ser seguidas, a critério do Delegado da WCA.
     - 9t1) Se isto tornar a ronda incompatível com a [Regra 9p1](regulations:regulation:9p1), resultados de outros competidores não podem ser removidos.
@@ -483,7 +490,7 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
     - 11j3) Se o erro for descoberto durante a competição, mas depois do grupo, a tentativa em falta deve ser reposta por uma tentativa extra.
     - 11j3+) [LEMBRETE] A sequência de embaralhamento usada para a tentativa extra não deve ser obtida de um grupo anterior.
     -  11j4) Se o erro for descoberto apenas após o fim da competição, o resultado será considerado com DNS.
-- 11k) Para rondas Frente a Frente (ver Artigo I), o Delegado da WCA deve considerar a natureza do formato ao determinar o curso de ação para qualquer incidente.
+- 11k) Para rondas Frente a Frente (ver [Artigo I](regulations:article:I)), o Delegado da WCA deve considerar a natureza do formato ao determinar o curso de ação para qualquer incidente.
     - 11k1) Se o Delegado da WCA conceder uma tentativa extra a qualquer um dos competidores por um ponto, ambos os competidores devem receber uma tentativa extra.
     - 11k2) O Delegado da WCA não deve conceder uma tentativa extra se um incidente não afetar qual competidor ganharia um ponto.
     - 11k2+) [EXEMPLO] Se o Competidor A completar a sua tentativa e, em seguida, um ruído perturbador afetar o Competidor B, o Delegado da WCA não deve conceder uma tentativa extra, pois o Competidor A já tinha ganho o ponto.
@@ -559,7 +566,7 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
         - A1a3+) [LEMBRETE] A equipa de organização e o Delegado da WCA devem estar conscientes que os limites de tempo influenciam as estratégias dos competidores (por exemplo, apressar as duas primeiras tentativas na esperança de atingir um limite numa ronda de tempo de corte) e que alterar os limites de tempo após o início da ronda pode prejudicar injustamente alguns competidores.
         - A1a4) O competidor deve terminar cada resolução dentro antes que o tempo limite para uma tentativa acabe. Se o temporizador de um competidor atingir o tempo limite numa tentativa, o juiz para a resolução imediatamente e regista o resultado como DNF. Exceção: 3x3x3 Vários Cubos Vendado (ver [Regra H1b1](regulations:regulation:H1b1)).
         - A1a4+) [LEMBRETE] Se um competidor tiver sido acidentalmente autorizado a exceder o limite de tempo, o limite de tempo deve ser aplicado retroativamente, e o juiz, o competidor e o Delegado da WCA devem ser informados (ver [Regra 1g2](regulations:regulation:1g2)). Os juízes devem estar sempre conscientes do limite de tempo para a tentativa atual (que pode depender de tentativas anteriores, no caso de um tempo limite cumulativo).
-        - A1a5) Uma resolução é considerada como tendo atendido ao tempo limite se e somente se o resultado final, depois da aplicação de quaisquer punições, for menor que o tempo limite. Exceção: Vários Cubos Vendado (ver [Regra H1b1](regulations:regulation:H1b1)).
+        - A1a5) O tempo que conta para o tempo limite de uma tentativa é o resultado após a aplicação das penalidades de tempo terem sido aplicadas (se o resultado não tiver sido DNF) ou o tempo gasto na resolução (se o resultado tiver sido DNF).
     - A1b) Se o tempo limite para uma resolução for maior que 10 minutos, um cronómetro manual é usado para medir o tempo.
     - A1b+) [ADIÇÃO] O competidor pode pegar num cronómetro para ver o tempo atual (quando não estiver vendado), mas não deve iniciar, parar, pausar ou interagir de qualquer outra forma com o cronómetro. Exceção: o competidor pode parar o cronómetro no final da sua tentativa se o juiz não estiver imediatamente disponível (ver [Regra A6a1](regulations:regulation:A6a1)).
     - A1b++) [ADIÇÃO] A equipa de organização pode fornecer ao competidor um cronómetro não oficial para ver o tempo decorrido (iniciado juntamente com o cronómetro principal), caso em que o competidor não está autorizado a tocar no cronómetro oficial. Exceção: ver [Regra A6a1](regulations:regulation:A6a1).
@@ -590,7 +597,7 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
 - A3) Inspeção:
     - A3a) O competidor pode inspecionar o puzzle no início de cada resolução.
         - A3a1) O competidor tem um tempo estrito de menos 15 segundos para inspecionar o puzzle e iniciar a resolução.
-    - A3b) O juiz prepara o temporizador desligando-o e ligando-o e reiniciando-o se necessário. Se um temporizador Generation 5 Pro estiver em uso, o juiz deve assegurar que está no modo 2-Pad. Separadamente, o juiz também prepara o cronómetro para medir o tempo de inspeção.
+    - A3b) O juiz prepara o temporizador desligando-o e ligando-o e reiniciando-o se necessário. Se um temporizador Generation 5 Pro estiver em uso, o juiz deve assegurar que está no modo 2-Pad. Separadamente, o juiz também prepara o cronómetro para medir o tempo de inspeção (ver [Regra A4d](regulations:regulation:A4d)).
         - A3b1) Quando o competidor estiver presente na estação de resolução e o juiz estiver pronto, o juiz pergunta "PRONTO?". O competidor tem que estar pronto para iniciar a resolução num minuto após ter sido chamado. Caso contrário, o competidor desiste da tentativa (DNS), ao critério do juiz.
         - A3b2) O competidor inicia a tentativa ao confirmar que está pronto e o juiz destapa o puzzle e inicia a cronometragem da inspeção.
         - A3b3) Quando o tempo de inspeção atingir 8 segundos, o juiz diz "8 SEGUNDOS".
@@ -598,11 +605,11 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
         - A3b5) O juiz para o tempo de inspeção, a partir do momento em que o competidor levanta as mãos do temporizador (ver [Regra A4d](regulations:regulation:A4d))
     - A3c) O competidor pode pegar no puzzle durante a inspeção.
         - A3c1) O competidor não pode aplicar movimentos ou alterações intencionais no alinhamento durante a inspeção. Penalidade: desqualificação da resolução (DNF). Exceção: ver [Regra A3c2](regulations:regulation:A3c2) e [Regra A3c5](regulations:regulation:A3c5).
-        - A3c1+) [ESCLARECIMENTO] Para Clock, o competidor pode alterar o estado dos pinos durante a inspeção (ver [Regra 12i](regulations:regulation:12i)).
+        - A3c1+) [ESCLARECIMENTO] Para Clock, o competidor pode alterar o estado dos pinos durante a inspeção (ver [Regra 12i1](regulations:regulation:12i1)).
         - A3c2) Se as peças do puzzle não estiverem totalmente alinhadas, o competidor pode alinhar as faces, assegurando que os desalinhamentos estejam nos limites da [Regra 10f](regulations:regulation:10f)
         - A3c3) O competidor pode reiniciar o temporizador antes de começar a resolução.
         - A3c3+) [ESCLARECIMENTO] O competidor pode reiniciar o cronómetro antes/durante a fase de inspeção se o juiz acidentalmente se esquecer de o fazer. No entanto, é da responsabilidade do juiz garantir que o cronómetro foi reiniciado (ver [Regra A3b](regulations:regulation:A3b)). Se o competidor acidentalmente tentar iniciar a resolução com um temporizador que o juiz não reiniciou (ou seja, o competidor realiza a inspeção, coloca as mãos no temporizador de resolução em velocidade "speedsolving" por um período razoável, assume que o temporizador irá iniciar normalmente e começa a operar o puzzle), a tentativa deve ser substituída por uma tentativa extra, a critério do Delegado da WCA.
-        - A3c3++) [ESCLARECIMENTO] O competidor não pode «testar» ou «reiniciar» o cronómetro durante a inspeção, uma vez que a inspeção termina assim que o competidor inicia a resolução (ver Regulamento A4d). Se o competidor parar o cronómetro após o ter iniciado pela primeira vez, isso é considerado como parar a resolução (ver Regulamento A6), mesmo que o faça dentro de 15 segundos após o início da inspeção.
+        - A3c3++) [ESCLARECIMENTO] O competidor não pode «testar» ou «reiniciar» o cronómetro durante a inspeção, uma vez que a inspeção termina assim que o competidor inicia a resolução (ver [Regra A4d](regulations:regulation:A4d)). Se o competidor parar o cronómetro após o ter iniciado pela primeira vez, isso é considerado como parar a resolução (ver [Regra A6](regulations:regulation:A6)), mesmo que o faça dentro de 15 segundos após o início da inspeção.
         - A3c4) Para Square-1, se estiver definida a utilização de um objeto fino pela equipa de organização (ver [Regra A2b1](regulations:regulation:A2b1)), o competidor tem de remover esse objeto do puzzle durante a inspeção.
         - A3c4+) [ESCLARECIMENTO] Se o uso de um objeto fino no puzzle tiver sido imposto, o juiz não deve remover o objeto na vez do competidor.
         - A3c4++) [ESCLARECIMENTO] O competidor pode remover o objeto durante a resolução, se não o tiver feito durante a inspeção (por exemplo, se se tiver esquecido).
@@ -621,7 +628,7 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
     - A4e) Penalizações de tempo para o início da resolução são cumulativas.
     - A4f) O competidor é responsável por começar o temporizador de resolução em velocidade "speedsolving" corretamente.
 - A5) Durante a resolução:
-    - A5a) Enquanto estiver a inspecionar ou a resolver o puzzle, o competidor não pode receber assistência de ninguém ou de nenhum objeto além da superfície (ver também [Regra 2i](regulations:regulation:2i)). Penalidade: desqualificação da resolução (DNF). Exceção: Se o competidor não ganha vantagem em comunicar com alguém para além do juiz e do Delegado da WCA, o resultado pode permanecer, a critério do Delegado da WCA.
+    - A5a) Enquanto estiver a inspecionar ou a resolver o puzzle, o competidor não pode receber assistência de ninguém ou de nenhum objeto além do juiz ou do Delegado da WCA. Exceção: Se o competidor não ganha vantagem em comunicar com alguém para além do juiz e do Delegado da WCA, o resultado pode permanecer, a critério do Delegado da WCA.
     - A5b) Enquanto estiver a inspecionar ou a resolver o puzzle, o competidor não pode receber assistência de ninguém ou de nenhum objeto além da superfície para resolver o puzzle (ver também [Regra 2i](regulations:regulation:2i)). Penalidade: desqualificação da resolução (DNF).
     - A5b+) [ESCLARECIMENTO] Durante a inspeção ou resolução do puzzle, o competidor pode tocar no puzzle com qualquer parte do corpo. Exceção: 3x3x3 com uma mão (ver [Regra C1b](regulations:regulation:C1b)).
     - A5b++) [ESCLARECIMENTO] Se uma parte do puzzle do competidor se soltar ou se desligar (ver [Regra 5a](regulations:regulation:5a)), o competidor não deve pedir ajuda para recuperar ou localizar a parte e o juiz deve tentar impedir que outros o ajudem. Se alguém pegar numa parte solta para o competidor, o juiz ou o competidor pode pedir-lhe que a coloque na estação de resolução e que não ajude mais.
@@ -640,7 +647,7 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
     - A6e+) [ESCLARECIMENTO] Se o puzzle cair no colo do competidor após parar o temporizador, isso é considerado como tocar no puzzle.
     - A6e++) [ESCLARECIMENTO] Se a [Regra A6c](regulations:regulation:A6c) for usada para penalizar uma tentativa, as penalidades do [Regra A6e](regulations:regulation:A6e) só devem ser aplicadas se o competidor soltar o puzzle e tocar-lhe novamente antes que o juiz o inspecione.
         - A6e1) Penalidade para aplicar um movimento após parar o temporizador: desqualificação da resolução (DNF).
-        - A6e2) Penalidade para tocar no puzzle após para o temporizador sem aplicar nenhum movimento: penalidade de tempo (+2 segundos). Exceção: se imediatamente após parar o temporizador, o competidor levemente toca no puzzle sem afetar o seu estado, a penalidade de tempo pode ser ignorada, a critério do juiz.
+        - A6e2) Penalidade para tocar no puzzle após para o temporizador sem aplicar nenhum movimento: penalidade de tempo (+2 segundos). Exceção: se imediatamente após parar o temporizador, o competidor levemente toca no puzzle sem afetar o seu estado, a penalidade de tempo pode ser ignorada, a critério do juiz (ver [Regra 11f](regulations:regulation:11f)).
     - A6f) O competidor não pode reiniciar o temporizador até que o juiz e o competidor tenham ambos assinado a folha de resultados. Penalidade: desqualificação da resolução (DNF), a critério do juiz. Exceção: ver [Regra A7c5](regulations:regulation:A7c5).
         - A6f1) Se o competidor reiniciar o temporizador antes que o resultado tenha sida totalmente registado, o juiz não pode registar o resultado por memória ou por provas de vídeo e fotográficas, e tem de desqualificar a tentativa em vez de escrever (DNF).
     - A6g) O juiz determina se o puzzle está resolvido. Se o puzzle estiver desalinhado, este não deve ser tocado antes de o juiz ter determinado o seu estado final.
@@ -650,7 +657,7 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
     - A7a) O juiz comunica ao competidor o resultado.
         - A7a1) O juiz indica que o puzzle está resolvido, ou se uma penalidade vai ser aplicada.
     - A7b) O juiz anota o resultado na folha de resultados e assina a seguir ao resultado para confirmar que o resultado está correto, completo, corretamente formatado, e claramente legível. Assinaturas de juízes devem ser consistentes durante a competição e devem identificar o juiz.
-        - A7b1) Um tempo formatado corretamente segue o formato «h:mm:ss.cc», onde «h» representa as horas, «mm» representa os minutos, «ss» representa os segundos e «cc» representa os centésimos de segundo. Para tempos de dez minutos ou mais, e todos os tempos em 3x3x3 Vários Cubos Vendado, os centésimos de segundo podem ser omitidos (ver [Regra 9f2](regulations:regulation:9f2)). Pequenas variações no formato dos resultados, de acordo com a prática regional (Ex.: usar uma vírgula em vez de um ponto, usar “60:00.00” em vez de “1:00:00.00”), podem ser permitidas a critério do Delegado da WCA.
+        - A7b1) Um tempo formatado corretamente segue o formato "h:mm:ss.cc", onde "h" representa as horas, "mm" representa os minutos, "ss" representa os segundos e "cc" representa os centésimos de segundo. Para tempos de dez minutos ou mais, e todos os tempos em 3x3x3 Vários Cubos Vendado, os centésimos de segundo podem ser omitidos (ver [Regra 9f2](regulations:regulation:9f2)). Pequenas variações no formato dos resultados, de acordo com a prática regional (Ex.: usar uma vírgula em vez de um ponto, usar “60:00.00” em vez de “1:00:00.00”), podem ser permitidas a critério do Delegado da WCA.
         - A7b2) O juiz pode escrever quaisquer casas decimais adicionais mostradas no temporizador de resolução em velocidade "speedsolving", mas estas não são incluídas no resultado oficial (ver [Regra 9f](regulations:regulation:9f)). Exemplo: se o temporizador de resolução em velocidade "speedsolving" mostrar 12.678 para uma tentativa, o tempo formatado corretamente é 12.67, embora o juiz possa escrever 12.678, se desejar.
         - A7b3) Os zeros ao início, mas não os zeros a seguir a qualquer dígito diferente de zero, são omitidos. Exemplo: um tempo de três segundos e trinta centésimos de segundo é registado como 3.30, e não como 0:00:03.30 ou 3.3.
         - A7b4) Se alguma penalidade for aplicada, o juiz anota o resultado original mostrado no temporizador de resolução em velocidade "speedsolving", com quaisquer penalidades. O formato deve ser "T + X = F", em que T representa o tempo apresentado no temporizador de resolução em velocidade "speedsolving", X representa a soma das penalidades da resolução, e F representa o resultado final (Ex.: 17.65 + 4 = 21.65).
@@ -678,12 +685,12 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
 ## <article-B><blindfolded><blindfoldedsolving> Artigo B: Resolução Vendada
 
 - B1) É seguido o procedimento comum da Resolução em Velocidade, como descrito no [Artigo A](regulations:article:A) (Resolução em Velocidade). Regras adicionais sobrepostas aos procedimentos correspondentes do [Artigo A](regulations:article:A) são descritas em seguida.
-- B1+) [LEMBRETE] O competidor deve usar um puzzle sem texturas, marcas ou outras características que distingam peças semelhantes (ver [Regra 3k](regulations:regulation:3k)). Isto deve receber atenção especial para a resolução vendada. Exceção: para o 3x3x3 Vendado, o puzzle pode ter quaisquer logótipos permitidos pelo Regulamento 3l.
+- B1+) [LEMBRETE] O competidor deve usar um puzzle sem texturas, marcas ou outras características que distingam peças semelhantes (ver [Regra 3k](regulations:regulation:3k)). Isto deve receber atenção especial para a resolução vendada. Exceção: para o 3x3x3 Vendado, o puzzle pode ter quaisquer logótipos permitidos pela [Regra 3l](regulations:regulation:3l).
     - B1a) Não há período de inspeção (a resolução começa ao mesmo tempo que a tentativa).
     - B1b) O competidor fornece a sua própria venda.
     - B1b+) [RECOMENDAÇÃO] As vendas devem ser verificadas pelo Delegado da WCA antes de serem utilizadas na competição.
 - B2) Início da resolução:
-    - B2a) O juiz reinicia o(s) cronómetro(s) como na [Regra A3b1](regulations:regulation:A3b1) e indica que está pronto para o competidor começar a tentativa (Ex.: coloca a capa do puzzle em frente do competidor, dizendo "PRONTO", dar um sinal de "fixe" com polegar para cima). O competidor deve estar pronto a começar a tentativa num minuto, caso contrário este desiste da tentativa (DNS), a critério do juiz.
+    - B2a) O juiz reinicia o(s) cronómetro(s) como na [Regra A3b](regulations:regulation:A3b) e indica que está pronto para o competidor começar a tentativa (Ex.: coloca a capa do puzzle em frente do competidor, dizendo "PRONTO", dar um sinal de "fixe" com polegar para cima). O competidor deve estar pronto a começar a tentativa num minuto, caso contrário este desiste da tentativa (DNS), a critério do juiz.
     - B2b) Se um temporizador de resolução em velocidade "speedsolving" estiver em uso, o competidor usa os seus dedos para tocar nas superfícies do sensor elevado do temporizador. As palmas do competidor devem voltadas para baixo do lado do cronómetro mais próximo para o competidor. Penalidade: penalidade de tempo (+2 segundos).
     - B2c) Se um temporizador de resolução em velocidade "speedsolving" estiver em uso, o competidor não pode ter contacto físico com o puzzle entre o período de inspeção e o início da resolução. Penalidade: de tempo (+2 segundos).
     - B2d) Se um temporizador de resolução em velocidade "speedsolving" estiver em uso, o competidor deve manter as suas mãos no temporizador até o temporizador estiver pronto para começar. O temporizador começa quando o competidor remover a(s) sua(s) mão(s) do temporizador. O competidor começa a tentativa e a resolução a partir do momento em que o temporizador começa a contar o tempo.
@@ -691,11 +698,11 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
         - B2d1) O competidor destapa o puzzle após ter iniciado o temporizador Stackmat.
         - B2d2) Se um cronómetro estiver em uso como complemento ao temporizador de resolução em velocidade "speedsolving", o juiz começa o cronómetro mal o competidor comece a resolução.
     - B2f) Se um cronómetro manual estiver a ser usado como única forma de medir o tempo, o competidor confirma a sua prontidão e este começa a resolução ao levantar a cobertura do puzzle. O juiz inicia o cronómetro assim que o competidor iniciar a resolução.
-    - B2f+) [ESCLARECIMENTO] Como o competidor começa a resolver levantando a tampa, as penalidades por iniciar o temporizador e por tocar na tampa ao começar a tentativa não se aplicam (ver [Regra B2b](regulations:regulation:B2c) e [Regra B2c](regulations:regulation:B2c)).
+    - B2f+) [ESCLARECIMENTO] Como o competidor começa a resolver levantando a tampa, as penalidades por iniciar o temporizador e por tocar na tampa ao começar a tentativa não se aplicam (ver [Regra B2b](regulations:regulation:B2b) e [Regra B2c](regulations:regulation:B2c)).
 - B3) Fase de memorização:
     - B3a) O competidor pode pegar no puzzle durante a fase de memorização.
-    - B3b) O competidor não pode fazer qualquer anotação física. Penalidade: desqualificação da tentativa (DNF). Exceção: ver [Regra B3d](regulations:regulation:B3d).
-    - B3c) O competidor não pode aplicar movimentos ou alterações intencionais no alinhamento ao puzzle durante a fase de memorização. Penalidade: desqualificação da tentativa (DNF).
+    - B3b) O competidor não pode fazer qualquer anotação física. Penalidade: desqualificação da tentativa (DNF).
+    - B3c) O competidor não pode aplicar movimentos ou alterações intencionais no alinhamento (ver [Regra A3c2](regulations:regulation:A3c2)) ao puzzle durante a fase de memorização. Penalidade: desqualificação da tentativa (DNF). Exceção: ver [Regra B3d](regulations:regulation:B3d).
     - B3d) Se partes do puzzle não estiverem totalmente alinhadas, antão o competidor pode alinhar as faces, desde que os desalinhamentos estejam entre os limites da [Regra 10f](regulations:regulation:10f) (ver [Regra A3c2](regulations:regulation:A3c2))
 - B4) Fase vendada:
     - B4a) O competidor baixa a venda para iniciar a fase vendada.
@@ -707,7 +714,7 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
         - B4c2) Um bloqueador de visão deve estar posicionado de forma que a visão do competidor sobre o puzzle estaria claramente bloqueada, se o mesmo não estivesse a usar uma venda.
         - B4c3) Se o juiz e o competidor combinarem anteriormente, ou se for pedido pela equipa de organização, um objeto apropriado (Ex.: uma estante de partitura, a superfície da mesa) pode ser usado como bloqueador de visão. O competidor deve faxer uma tentativa razoável de colocar o bloqueador de visão ele mesmo. Penalidade: desqualificação da tentativa (DNF). Se o bloqueador de visão não estiver posicionado de maneira que a visão do competidor estaria totalmente bloqueada se o mesmo não estivesse a usar uma venda, um bloqueador de visão extra deve ser colocado pelo juiz.
     - B4d) O competidor não pode olhar para o puzzle em nenhum momento durante a fase vendada. Penalidade: desqualificação da tentativa (DNF).
-    - B4d+) [ESCLARECIMENTO] Para o 3x3x3 Vendado, os competidores estão autorizados a determinar a localização de um logótipo permitido (ver Regra 3l](regulations:regulation:3l)) pelo toque durante a fase vendada.
+    - B4d+) [ESCLARECIMENTO] Para o 3x3x3 Vendado, os competidores estão autorizados a determinar a localização de um logótipo permitido (ver [Regra 3l](regulations:regulation:3l)) pelo toque durante a fase vendada.
 - B5) Terminar a resolução:
     - B5a) Quando estiver em uso um temporizador de resolução em velocidade "speedsolving", o competidor finaliza a resolução largando o puzzle e depois parando o cronómetro.
         - B5a1) Se um cronómetro estiver em uso em complemento ao temporizador de resolução em velocidade "speedsolving", o juiz para o cronómetro mal o competidor pare a resolução.
@@ -724,7 +731,7 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
     - C1b++) [ESCLARECIMENTO] O competidor não é obrigado a usar a mesma mão de resolução para tentativas diferentes da mesma ronda
         - C1b2) Se um defeito no puzzle ocorrer, e o competidor escolher repará-lo, este terá que fazer essa reparação usando apenas a mão usada na resolução. Penalidade: desqualificação da tentativa (DNF).
         - C1b3) Se outras partes do corpo do competidor entrar em contacto com o puzzle ou partes dele de forma não intencional e sem aplicar movimentos, isso não é considerado como operar o puzzle, a critério do juiz.
-        - C1b4) Durante a resolução, o competidor pode segurar o puzzle contra a superfície de forma que o ajude a operar o puzzle
+        - C1b4) Durante a resolução, o competidor pode segurar o puzzle contra a superfície de forma que o ajude a operar o puzzle (ver [Regra 7f1d](regulations:regulation:7f1d))
     - C1c) Durante a resolução, assim que o competidor tocar no puzzle com uma mão, não pode tocá-lo com a outra mão. Penalidade: desqualificação da tentativa (DNF).
 
 
@@ -747,7 +754,7 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
         - E2c2+) [EXEMPLO] Exemplos que não são considerados uma sequência de movimentos única e inequívoca: várias sequências de soluções sem uma solução claramente indicada, uma solução com símbolos ambíguos (por exemplo, uma letra que se parece com "B" e "R", mas não é claramente uma ou outra), uma solução com estrelas ou setas indicando movimentos a serem realizados fora da ordem escrita (por exemplo, "inserções" que não estão escritas em linha com o resto da sequência de movimentos, "pré-movimentos" que não estão incorporados na sequência de movimentos usando notação válida), uma sequência de movimentos que não está aproximadamente escrita como uma série de linhas em ordem de leitura, qualquer arranjo de símbolos que não possa ser interpretado como uma sequência de movimentos inequívoca. Exceções aos exemplos acima: pequenas correções tipográficas (por exemplo, riscar movimentos e escrever movimentos em cima que claramente se destinam a substituí-los, movimentos escritos em subscrito ou sobrescrito para caberem, entre outros movimentos).
         - E2c2++) [LEMBRETE] No passado, notações entre parênteses (por exemplo, [r] ou [u2]) eram permitidas para 3x3x3 em Menos Movimentos. Agora, apenas são permitidas rotações baseadas em x, y ou z ([Regra 12a4a](regulations:regulation:12a4a)).
         - E2c3) O competidor deve indicar claramente quais movimentos devem ser idos em conta como parte da sua solução, riscando quaisquer movimentos para excluir, ou desenhando com uma linha à volta da sua solução.
-        - E2c3+) [ESCLARECIMENTO] Se um movimento não estiver claramente riscado/apagado e não for claro se o movimento faz parte da solução, o juiz deve considerá-lo uma sequência de movimentos ambígua (ver [Regra E2c2](regulations:regulation:E2c2) e [Regra 4b2+](regulations:regulation:E2c2+)).
+        - E2c3+) [ESCLARECIMENTO] Se um movimento não estiver claramente riscado/apagado e não for claro se o movimento faz parte da solução, o juiz deve considerá-lo uma sequência de movimentos ambígua (ver [Regra E2c2](regulations:regulation:E2c2) e [Regra E2c2+](regulations:regulation:E2c2+)).
         - E2c4) Apenas números, letras e apóstrofos são considerados parte da solução do competidor. Outros símbolos serão descartados. A solução restante deverá apenas usar movimentos descritos como notação na [Regra 12a](regulations:regulation:12a). Penalidade: desqualificação da tentativa (DNF).
         - E2c4+) [EXEMPLO] Exemplos de interpretação de símbolos ou combinações de símbolos que não estão definidos na [Regra 12a](regulations:regulation:12a): [x] deve ser interpretado como x. (R * U', * = F2) deve ser interpretado como R U' F2. (R U)‘ deve ser interpretado como R U’. R++ deve ser interpretado como R. R3' não é permitido.
         - E2c4++) [ADIÇÃO] Movimentos com apóstrofo e 2 devem ser interpretados como se não houvesse apóstrofo (por exemplo, R2' deve ser interpretado como R2).
@@ -816,14 +823,14 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
         - I2b2) Fase de Semifinal: 2 partidas.
         - I2b3) Fase dos Quartos de Final: 4 partidas.
         - I2b4) Fase de Playoff: 4 partidas.
-        - I2b5) Fase dos 16: 8 partidas.
+        - I2b5) Fase dos Oitavos de Final: 8 partidas.
     - I2c) As partidas na primeira fase de uma ronda são baseados na classificação dos competidores. O competidor com a classificação mais alta é confrontado com o competidor com a classificação mais baixa. O competidor com a segunda classificação mais alta é confrontado com o competidor com a segunda classificação mais baixa. Este processo é repetido até que todos os competidores tenham sido emparelhados.
-        - I2c1) Exceção: para rondas com 12 vagas, os 4 competidores com melhor classificação não participam da Fase de Playoff, mas enfrentam os vencedores da Fase de Playoff durante a Fase dos Quartos de Final.
-    - I2d) O vencedor de cada partida durante a Fase dos 16, Fase de Playoff e Fase dos Quartos de Final avança para a fase seguinte. O perdedor é eliminado.
+        - I2c1) Exceção: para rondas com 12 vagas, os 4 competidores com melhor classificação não participam na Fase de Playoff, mas enfrentam os vencedores da Fase de Playoff durante a Fase dos Quartos de Final.
+    - I2d) O vencedor de cada partida durante a Fase dos Oitavos de Final, Fase de Playoff e Fase dos Quartos de Final avança para a fase seguinte. O perdedor é eliminado.
     - I2e) O vencedor de cada partida durante a Fase de Semifinal participa na Partida Final durante a Fase Final. O perdedor de cada partida durante a Fase Semifinal participa na Partida pelo Terceiro Lugar durante a Fase Final.
     - I2f) Para as fases seguintes, os competidores são emparelhados de forma que, assumindo que o cabeça de série mais alto tenha vencido todas as partidas anteriores, os cabeças de série somem o número de competidores restantes mais 1.
     - I2g) Um [Guia Visual](https://drive.google.com/file/d/1dGy7DZZqPNuf8dDHJIJUw5vzwgoRjz1G/view) ilustra a estrutura completa para rondas com 4, 8, 12 e 16 competidores.
-    - I2h) Se um competidor desistir de uma partida antes do seu início, o seu adversário é considerado vencedor da partida para efeitos de progressão (Fase de 16, Fase de Playoff, Fase dos Quartos de Final, Fase de Semifinal) ou classificação geral na ronda (Fase Final), mas não são registados resultados para a partida (ver [Regra 9f5b](regulations:regulation:9f5b)).
+    - I2h) Se um competidor desistir de uma partida antes do seu início, o seu adversário é considerado vencedor da partida para efeitos de progressão (Fase dos Oitavos de Final, Fase de Playoff, Fase dos Quartos de Final, Fase de Semifinal) ou classificação geral na ronda (Fase Final), mas não são registados resultados para a partida (ver [Regra 9f5b](regulations:regulation:9f5b)).
 - I3) Estrutura da partida:
     - I3a) Cada partida é composta por vários sets. O vencedor da partida é o primeiro competidor a ganhar X sets (onde X é 1, 2 ou 3).
         - I3a1) X deve ser o mesmo para todas as partidas dentro de uma fase. Exceção: para a Partida Final, X pode ser maior que para a Partida pelo Terceiro Lugar.
@@ -849,6 +856,6 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
 - I5) Procedimentos de resolução vendada Frente a Frente:
     - I5a) São seguidos os procedimentos padrões de resolução de velocidade "speedsolving" (conforme descrito no [Artigo A](regulations:article:A)), os procedimentos de resolução vendada (conforme descrito no [Artigo B](regulations:article:B)) e os procedimentos de resolução de velocidade "speedsolving" Frente a Frente (conforme descrito na [Regra I4](regulations:regulation:I4)). As regras adicionais que substituem os procedimentos correspondentes são descritas abaixo.
     - I5b) Início da tentativa:
-        - I5b1) Quando ambos os competidores estiverem presentes na estação de resolução e quando cada juiz estiver pronto, o apresentador pergunta «PRONTOS?».
+        - I5b1) Quando ambos os competidores estiverem presentes na estação de resolução e quando cada juiz estiver pronto, o apresentador pergunta "PRONTOS?".
         - I5b2) Quando ambos os competidores confirmarem que estão prontos, ou após pelo menos 15 segundos, o apresentador diz "3, 2, 1, VÃO". O competidor deve iniciar a resolução (ver [Regra B2d](regulations:regulation:B2d)) neste momento. Penalidade por atrasar intencionalmente o início da resolução: desqualificação da tentativa (DNF), a critério do juiz.
-        - I5b3) O competidor não deve iniciar a resolução antes que o locutor diga «VÃO». Penalidade: desqualificação da tentativa (DNF), a critério do juiz.
+        - I5b3) O competidor não deve iniciar a resolução antes que o locutor diga "VÃO". Penalidade: desqualificação da tentativa (DNF), a critério do juiz.
