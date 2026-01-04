@@ -154,7 +154,7 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
 
 - 3a) Os competidores devem fornecer os seus próprios puzzles para a competição.
 - 3a+) [ESCLARECIMENTO] Competidores podem usar puzzles de qualquer tamanho razoável, a critério do Delegado da WCA.
-- 3a++) [ADIÇÃO] Por definição, um competidor deve usar o mesmo puzzle para tentativas consecutivas de uma ronda de resolução em rapidez. Um competidor pode trocar de puzzles entre tentativas, a critério do Delegado da WCA.
+- 3a++) [ADIÇÃO] Por definição, um competidor deve usar o mesmo puzzle para tentativas consecutivas de uma ronda de resolução em velocidade "speed solving". Um competidor pode trocar de puzzles entre tentativas, a critério do Delegado da WCA.
 - 3a+++) [ESCLARECIMENTO] Competidores podem pedir puzzles de outros competidores de maneira privada, para usar em competição.
     - 3a1) O competidor deve estar preparado para submeter o seu puzzle quando for chamado (ver [Regra 2u](regulations:regulation:2u)).
     - 3a1+) [ESCLARECIMENTO] Competidores podem ser desqualificados se não tiverem um puzzle pronto para submissão após terem sido chamados (Ex.: se pretendia usar um puzzle que o outro competidor está ativamente a usar, e por consequência não consegue submeter um puzzle no momento).
@@ -414,7 +414,7 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
 
 ## <article-10><solved-state><solvedstate> Artigo 10: Estado Resolvido
 
-- 10b) Só o estado do puzzle em repouso, após o cronómetro ter sido parado, é que é considerado.
+- 10b) Só o estado do puzzle em repouso, após o temporizador ter sido parado, é que é considerado.
 - 10c) O puzzle pode estar em qualquer orientação no final da resolução.
 - 10d) Todas as partes do puzzle devem estar totalmente fixas a este, na posição devida. Exceção: ver [Regra 5b5](regulations:regulation:5b5).
 - 10e) Um puzzle está resolvido quando todas as partes coloridas forem reconstruídas e todas as partes estão alinhadas, nos limites especificados abaixo:
@@ -549,9 +549,9 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
     - 12i1) Exceção: para Clock, apenas alterações na posição dos relógios interiores são considerados movimentos. Alterações ao estado dos pinos não são consideradas movimentos.
 
 
-## <article-A><speedsolving><speedsolving> Artigo A: Resolução em Velocidade ("Speedsolving")
+## <article-A><speedsolving><speedsolving> Artigo A: Resolução em Velocidade "speed solving"
 
-- A1) Resoluções em velocidade devem seguir o procedimento seguinte.
+- A1) Resoluções em velocidade "speed solving" devem seguir o procedimento seguinte.
     - A1a) A equipa de organização tem que estabelecer pelo menos um limite de tempo (tempo limite por tentativa e/ou tempo limite cumulativo) para cada ronda.
     - A1a+) [ESCLARECIMENTO] Se ambos os limites forem aplicados, o tempo limite por tentativa não pode ser maior que o tempo limite cumulativo.
         - A1a1) O tempo limite padrão por resolução numa ronda é de 10 minutos, mas a equipa de organização pode anunciar um limite maior ou menor por tentativa. Neste caso, o limite deve ser o mesmo para todas as tentativas numa ronda.
@@ -608,8 +608,8 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
         - A3c1+) [ESCLARECIMENTO] Para Clock, o competidor pode alterar o estado dos pinos durante a inspeção (ver [Regra 12i1](regulations:regulation:12i1)).
         - A3c2) Se as peças do puzzle não estiverem totalmente alinhadas quando a cobertura for retirada, o competidor pode alinhar as faces, assegurando que os desalinhamentos estejam nos limites da [Regra 10f](regulations:regulation:10f)
         - A3c3) O competidor pode reiniciar o temporizador antes de começar a resolução.
-        - A3c3+) [ESCLARECIMENTO] O competidor pode reiniciar o cronómetro antes/durante a fase de inspeção se o juiz acidentalmente se esquecer de o fazer. No entanto, é da responsabilidade do juiz garantir que o cronómetro foi reiniciado (ver [Regra A3b](regulations:regulation:A3b)). Se o competidor acidentalmente tentar iniciar a resolução com um temporizador que o juiz não reiniciou (ou seja, o competidor realiza a inspeção, coloca as mãos no temporizador de resolução em velocidade "speedsolving" por um período razoável, assume que o temporizador irá iniciar normalmente e começa a operar o puzzle), a tentativa deve ser substituída por uma tentativa extra, a critério do Delegado da WCA.
-        - A3c3++) [ESCLARECIMENTO] O competidor não pode «testar» ou «reiniciar» o cronómetro durante a inspeção, uma vez que a inspeção termina assim que o competidor inicia a resolução (ver [Regra A4d](regulations:regulation:A4d)). Se o competidor parar o cronómetro após o ter iniciado pela primeira vez, isso é considerado como parar a resolução (ver [Regra A6](regulations:regulation:A6)), mesmo que o faça dentro de 15 segundos após o início da inspeção.
+        - A3c3+) [ESCLARECIMENTO] O competidor pode reiniciar o temporizador antes/durante a fase de inspeção se o juiz acidentalmente se esquecer de o fazer. No entanto, é da responsabilidade do juiz garantir que o temporizador foi reiniciado (ver [Regra A3b](regulations:regulation:A3b)). Se o competidor acidentalmente tentar iniciar a resolução com um temporizador que o juiz não reiniciou (ou seja, o competidor realiza a inspeção, coloca as mãos no temporizador de resolução em velocidade "speedsolving" por um período razoável, assume que o temporizador irá iniciar normalmente e começa a operar o puzzle), a tentativa deve ser substituída por uma tentativa extra, a critério do Delegado da WCA.
+        - A3c3++) [ESCLARECIMENTO] O competidor não pode «testar» ou «reiniciar» o temporizador durante a inspeção, uma vez que a inspeção termina assim que o competidor inicia a resolução (ver [Regra A4d](regulations:regulation:A4d)). Se o competidor parar o temporizador após o ter iniciado pela primeira vez, isso é considerado como parar a resolução (ver [Regra A6](regulations:regulation:A6)), mesmo que o faça dentro de 15 segundos após o início da inspeção.
         - A3c4) Para Square-1, se estiver definida a utilização de um objeto fino pela equipa de organização (ver [Regra A2b1](regulations:regulation:A2b1)), o competidor tem de remover esse objeto do puzzle durante a inspeção.
         - A3c4+) [ESCLARECIMENTO] Se o uso de um objeto fino no puzzle tiver sido imposto, o juiz não deve remover o objeto na vez do competidor.
         - A3c4++) [ESCLARECIMENTO] O competidor pode remover o objeto durante a resolução, se não o tiver feito durante a inspeção (por exemplo, se se tiver esquecido).
@@ -619,12 +619,12 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
 - A4) Ao início da resolução:
     - A4b) O competidor usa os dedos para tocar na superfície elevada de sensores do temporizador de resolução em velocidade "speedsolving". As palmas das mãos do competidor devem estar voltadas predominantemente para baixo, e colocadas no lado do temporizador mais próximo do competidor. Penalidade: penalidade de tempo (+2 segundos).
         - A4b1) O competidor não pode ter contacto físico com o puzzle entre o período de inspeção e o início da resolução. Penalidade: de tempo (+2 segundos).
-    - A4d) Se estiver a ser utilizado um temporizador de resolução em velocidade "speedsolving", o competidor deve manter as mãos sobre o temporizador até este estar pronto para começar. O cronómetro é iniciado quando o competidor retira a(s) mão(s) do temporizador. O competidor inicia a resolução ao iniciar o temporizador.
+    - A4d) Se estiver a ser utilizado um temporizador de resolução em velocidade "speedsolving", o competidor deve manter as mãos sobre o temporizador até este estar pronto para começar. O temporizador é iniciado quando o competidor retira a(s) mão(s) do temporizador. O competidor inicia a resolução ao iniciar o temporizador.
         - A4d1) O competidor deve iniciar a resolução dentro de 15 segundos após o início da inspeção. Penalidade: penalidade de tempo (+2 segundos).
         - A4d1+) [ESCLARECIMENTO] Se a inspeção tiver demorado exatamente 15 segundos (ou seja, 15.00), deve ser aplicada a penalidade de tempo (+2 segundos).
         - A4d2) O competidor deve iniciar a resolução dentro de 17 segundos após o início da inspeção. Penalidade: desqualificação da tentativa (DNF).
         - A4d2+) [ESCLARECIMENTO] Se a inspeção demorou exatamente 17 segundos (ou seja, 17.00), a tentativa deve ser desqualificada (DNF).
-        - A4d3) Se um cronómetro estiver a ser usado, o juiz inicia a contagem assim que se inicia a resolução.
+        - A4d3) Se um cronómetro estiver a ser usado, o juiz inicia a cronómetro assim que se inicie a resolução.
     - A4e) Penalizações de tempo para o início da resolução são cumulativas.
     - A4f) O competidor é responsável por começar o temporizador de resolução em velocidade "speedsolving" corretamente.
 - A5) Durante a resolução:
@@ -684,14 +684,14 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
 
 ## <article-B><blindfolded><blindfoldedsolving> Artigo B: Resolução Vendada
 
-- B1) É seguido o procedimento comum da Resolução em Velocidade, como descrito no [Artigo A](regulations:article:A) (Resolução em Velocidade). Regras adicionais sobrepostas aos procedimentos correspondentes do [Artigo A](regulations:article:A) são descritas em seguida.
+- B1) É seguido o procedimento comum da resolução em velocidade "speed solving", como descrito no [Artigo A](regulations:article:A) (Resolução em Velocidade "speed solving"). Regras adicionais sobrepostas aos procedimentos correspondentes do [Artigo A](regulations:article:A) são descritas em seguida.
 - B1+) [LEMBRETE] O competidor deve usar um puzzle sem texturas, marcas ou outras características que distingam peças semelhantes (ver [Regra 3k](regulations:regulation:3k)). Isto deve receber atenção especial para a resolução vendada. Exceção: para o 3x3x3 Vendado, o puzzle pode ter quaisquer logótipos permitidos pela [Regra 3l](regulations:regulation:3l).
     - B1a) Não há período de inspeção (a resolução começa ao mesmo tempo que a tentativa).
     - B1b) O competidor fornece a sua própria venda.
     - B1b+) [RECOMENDAÇÃO] As vendas devem ser verificadas pelo Delegado da WCA antes de serem utilizadas na competição.
 - B2) Início da resolução:
-    - B2a) O juiz reinicia o(s) cronómetro(s) como na [Regra A3b](regulations:regulation:A3b) e indica que está pronto para o competidor começar a tentativa (Ex.: coloca a cobertura do puzzle em frente do competidor, dizendo "PRONTO", dar um sinal de "fixe" com polegar para cima). O competidor deve estar pronto a começar a tentativa num minuto, caso contrário este desiste da tentativa (DNS), a critério do juiz.
-    - B2b) Se um temporizador de resolução em velocidade "speedsolving" estiver em uso, o competidor usa os seus dedos para tocar nas superfícies do sensor elevado do temporizador. As palmas do competidor devem voltadas para baixo do lado do cronómetro mais próximo para o competidor. Penalidade: penalidade de tempo (+2 segundos).
+    - B2a) O juiz reinicia o(s) temporizador(es) como na [Regra A3b](regulations:regulation:A3b) e indica que está pronto para o competidor começar a tentativa (Ex.: coloca a cobertura do puzzle em frente do competidor, dizendo "PRONTO", dar um sinal de "fixe" com polegar para cima). O competidor deve estar pronto a começar a tentativa num minuto, caso contrário este desiste da tentativa (DNS), a critério do juiz.
+    - B2b) Se um temporizador de resolução em velocidade "speedsolving" estiver em uso, o competidor usa os seus dedos para tocar nas superfícies do sensor elevado do temporizador. As palmas do competidor devem voltadas para baixo do lado do temporizador mais próximo para o competidor. Penalidade: penalidade de tempo (+2 segundos).
     - B2c) Se um temporizador de resolução em velocidade "speedsolving" estiver em uso, o competidor não pode ter contacto físico com o puzzle ou a cobertura do puzzle entre o período de inspeção e o início da resolução. Penalidade: de tempo (+2 segundos).
     - B2d) Se um temporizador de resolução em velocidade "speedsolving" estiver em uso, o competidor deve manter as suas mãos no temporizador até o temporizador estiver pronto para começar. O temporizador começa quando o competidor remover a(s) sua(s) mão(s) do temporizador. O competidor começa a tentativa e a resolução a partir do momento em que o temporizador começa a contar o tempo.
     - B2d+) [ADIÇÃO] Por padrão, o competidor começa a resolução na primeira vez que inicia o temporizador após o juiz indicar que está pronto (ver [Regra B2a](regulations:regulation:B2a)). Se quiser verificar se o temporizador está a funcionar corretamente, deve (pedir e) receber confirmação do juiz cada vez que iniciar/reiniciar o temporizador durante esta fase. Penalidade por iniciar e reiniciar um temporizador sem confirmação do juiz: desqualificação da tentativa (DNF).
@@ -716,7 +716,7 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
     - B4d) O competidor não pode olhar para o puzzle em nenhum momento durante a fase vendada. Penalidade: desqualificação da tentativa (DNF).
     - B4d+) [ESCLARECIMENTO] Para o 3x3x3 Vendado, os competidores estão autorizados a determinar a localização de um logótipo permitido (ver [Regra 3l](regulations:regulation:3l)) pelo toque durante a fase vendada.
 - B5) Terminar a resolução:
-    - B5a) Quando estiver em uso um temporizador de resolução em velocidade "speedsolving", o competidor finaliza a resolução largando o puzzle e depois parando o cronómetro.
+    - B5a) Quando estiver em uso um temporizador de resolução em velocidade "speedsolving", o competidor finaliza a resolução largando o puzzle e depois parando o temporizador.
         - B5a1) Se um cronómetro estiver em uso em complemento ao temporizador de resolução em velocidade "speedsolving", o juiz para o cronómetro mal o competidor pare a resolução.
     - B5b) Quando só estiver a ser usado um cronómetro, o competidor finaliza a resolução largando o puzzle e avisando o juiz de que terminou a resolução. Nesse momento, o juiz para o cronómetro.
         - B5b1) A forma padrão de sinal para notificar consiste em largar o(s) puzzle(s) das suas mãos e colocar as suas mãos na superfície, com as palmas voltadas para baixo. O competidor e o juiz podem acordar entre si noutra maneira apropriada de notificar antes do início da tentativa.
@@ -725,7 +725,7 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
 
 ## <article-C><one-handed><onehandedsolving> Artigo C: Resolução Com Uma Mão
 
-- C1) É seguido o procedimento comum da Resolução em Velocidade, como descrito no [Artigo A](regulations:article:A) (Resolução em Velocidade). Regras adicionais que se sobrepõe aos procedimentos correspondentes do [Artigo A](regulations:article:A) são descritas em seguida.
+- C1) É seguido o procedimento comum da resolução em velocidade "speed solving", como descrito no [Artigo A](regulations:article:A) (Resolução em Velocidade "speed solving"). Regras adicionais sobrepostas aos procedimentos correspondentes do [Artigo A](regulations:article:A) são descritas em seguida.
     - C1b) Durante a resolução, o competidor só pode usar uma mão para tocar no puzzle. Penalidade: desqualificação da tentativa (DNF).
     - C1b+) [ESCLARECIMENTO] O competidor pode usar ambas as mãos durante a inspeção.
     - C1b++) [ESCLARECIMENTO] O competidor não é obrigado a usar a mesma mão de resolução para tentativas diferentes da mesma ronda
@@ -839,8 +839,8 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
     - I3c) O vencedor de um ponto é o competidor com o melhor resultado, sendo que «melhor» é definido como o tempo mais curto. Um DNF ou DNS é o pior resultado possível.
     - I3d) Se nenhum dos competidores tiver um resultado melhor, nenhum deles ganha o ponto.
     - I3e) Se nenhum dos competidores ganhar um set após 7 pontos, o competidor com mais pontos ganha o set. Se ambos os competidores tiverem o mesmo número de pontos, o competidor com o melhor resultado individual no set ganha o set. Se nenhum dos competidores tiver o melhor resultado individual no set, são considerados os melhores resultados individuais na partida e, em seguida, os resultados individuais na ronda. Se necessário, as classificações dos competidores atuam como desempate final, com o competidor com a classificação mais alta a ganhar o set.
-- I4) Procedimentos de resolução rápida "speedsolving" Frente a Frente:
-    - I4a) São seguidos os procedimentos padrões de resolução rápida "speedsolving", conforme descrito no [Artigo A](regulations:article:A). Regulamentos adicionais que substituem os procedimentos correspondentes no Artigo A são descritos abaixo.
+- I4) Procedimentos de resolução em velocidade "speed solving" Frente a Frente:
+    - I4a) São seguidos os procedimentos padrões de resolução em velocidade "speed solving", conforme descrito no [Artigo A](regulations:article:A). Regulamentos adicionais que substituem os procedimentos correspondentes no Artigo A são descritos abaixo.
     - I4b) Embaralhamento:
         - I4b1) Os competidores numa partida devem usar as mesmas sequências de embaralhamento entre si para um ponto. Cada ponto deve usar sequências de embaralhamento diferentes e cada partida deve usar sequências de embaralhamento diferentes.
     - I4c) Inspeção:
@@ -854,7 +854,7 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
     - I4d) Anotação dos resultados:
         - I4d1) Ao registar o resultado, o juiz também anota na folha de resultados se um competidor ganhou ou perdeu um ponto, ou se não houve vencedor.
 - I5) Procedimentos de resolução vendada Frente a Frente:
-    - I5a) São seguidos os procedimentos padrões de resolução de velocidade "speedsolving" (conforme descrito no [Artigo A](regulations:article:A)), os procedimentos de resolução vendada (conforme descrito no [Artigo B](regulations:article:B)) e os procedimentos de resolução de velocidade "speedsolving" Frente a Frente (conforme descrito na [Regra I4](regulations:regulation:I4)). As regras adicionais que substituem os procedimentos correspondentes são descritas abaixo.
+    - I5a) São seguidos os procedimentos padrões de resolução em velocidade "speed solving" (conforme descrito no [Artigo A](regulations:article:A)), os procedimentos de resolução vendada (conforme descrito no [Artigo B](regulations:article:B)) e os procedimentos de resolução em velocidade "speed solving" Frente a Frente (conforme descrito na [Regra I4](regulations:regulation:I4)). As regras adicionais que substituem os procedimentos correspondentes são descritas abaixo.
     - I5b) Início da tentativa:
         - I5b1) Quando ambos os competidores estiverem presentes na estação de resolução e quando cada juiz estiver pronto, o apresentador pergunta "PRONTOS?".
         - I5b2) Quando ambos os competidores confirmarem que estão prontos, ou após pelo menos 15 segundos, o apresentador diz "3, 2, 1, VÃO". O competidor deve iniciar a resolução (ver [Regra B2d](regulations:regulation:B2d)) neste momento. Penalidade por atrasar intencionalmente o início da resolução: desqualificação da tentativa (DNF), a critério do juiz.
