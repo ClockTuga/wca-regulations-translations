@@ -7,7 +7,7 @@ the official [World Cube Association Competition Regulations](https://worldcubea
 
 The following people helped with the translation:
 
-* [António Gomes]([https://www.worldcubeassociation.org/persons/2010GARC02](https://www.worldcubeassociation.org/persons/2014GOME07))
+* [António Gomes]([https://www.worldcubeassociation.org/persons/2010GARC02](https://www.worldcubeassociation.org/persons/2014GOME07)
 * [Miguel Duarte Afonso Pais](https://www.worldcubeassociation.org/persons/2024PAIS02)
 
 ## Terminologies / Terminologias
