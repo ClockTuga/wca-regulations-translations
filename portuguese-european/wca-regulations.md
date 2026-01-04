@@ -231,7 +231,7 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
     - 4b4+) [ESCLARECIMENTO] Todas as tentativas começadas durante este período seguem os procedimentos de resolução padrões (Ex.: as tentativas não devem ser paradas quando o período para a sequência de embaralhamento expira).
 - 4d) Orientações de embaralhamento:
 - 4d+) [ESCLARECIMENTO] Alguns puzzles usam esquemas de cor padrões, exceto que o branco é reposto por preto. Neste caso, preto é a cor mais escura e não deve ser tratado como sendo branco.
-- 4d++) [ADIÇÃO] É permitido que o puzzle mude de orientação quando é levado do embaralhador até à mesa de resolução, desde que ninguém esteja a tentar influenciar a aleatoriedade da orientação [ver Regra A2e1](regulations:regulation:A2e1).
+- 4d++) [ADIÇÃO] É permitido que o puzzle mude de orientação quando é levado do embaralhador até à estação de resolução, desde que ninguém esteja a tentar influenciar a aleatoriedade da orientação [ver Regra A2e1](regulations:regulation:A2e1).
     - 4d1) Os puzzles NxNxN e o Megaminx são embaralhados com a face branca (se não for possível, usa-se a face mais clara) no topo e a face verde-escura adjacente (se não for possível, usa-se a face adjacente mais escura) na frente.
     - 4d2) O Pyraminx é embaralhado com a face amarela (se não for possível, usa-se a face mais clara) em baixo e a face verde (se não for possível, usa-se a face adjacente mais escura) na frente.
     - 4d3) O Square-1 é embaralhado com a face mais escura na frente (dentre as 2 orientações possíveis para embaralhamento).
