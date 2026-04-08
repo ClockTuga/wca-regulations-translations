@@ -1,6 +1,6 @@
 # <wca-title>Regulamento da WCA
 
-<version>Versão: 1 de janeiro de 2026
+<version>Versão: 1 de abril de 2026
 
 ## Notas
 
@@ -237,12 +237,13 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
     - 4d3) O Square-1 é embaralhado com a face mais escura na frente (dentre as 2 orientações possíveis para embaralhamento).
     - 4d4) O Clock é embaralhado começando por qualquer uma das faces com os ponteiros nas 12 horas a apontar para cima.
     - 4d5) O Skewb é embaralhado começando com a face branca (se não for possível, usa-se a face mais clara) no topo e a face verde (se não for possível, usa-se a face adjacente mais escura) na frente-esquerda.
-- 4g+) [RECOMENDAÇÃO] Após verificar que o puzzle está corretamente embaralhado, o embaralhador pode passar o puzzle a outro embaralhador para verificar. Neste caso, ambos os embaralhadores devem assinar a folha de resultados.
     - 4g1) As seguintes exceções aplicam-se:
         - 4g1a) Para o Cubo 5x5x5, Cubo 6x6x6, Cubo 7x7x7 e Megaminx não é necessário corrigir o embaralhamento, a critério do Delegado da WCA.
         - 4g1a+) [ESCLARECIMENTO] Para 5x5x5 Vendado, estados de puzzle incorretos devem ser sempre corrigidos.
         - 4g1a++) [RECOMENDAÇÃO] O Delegado da WCA deverá usar critério mais forte para determinar se estados incorretos de puzzle para o Cubo 5x5x5 e Megaminx precisam de ser corrigidos.
     - 4g2) Para resolução de Vários Vendados, após embaralhar todos os cubos, o embaralhador deve verificar que não há embaralhamentos duplicados.
+    - 4g3) Após verificar que o puzzle está corretamente embaralhado, o embaralhador pode passar o puzzle a outro embaralhador para verificar. Neste caso, ambos os embaralhadores devem assinar a folha de resultados.
+    - 4g3+) [RECOMENDAÇÃO] Todos os puzzles numa ronda final de um Campeonato Nacional, Campeonato Continental ou um Campeonato Mundial devem ser verificados por um segundo embaralhador.
 
 
 ## <article-5><puzzle-defects><puzzledefects> Artigo 5: Defeitos nos Puzzles
@@ -394,6 +395,7 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
     - 9t3) Se qualquer alteração ocorrer aos resultados de um competidor, de forma que outro competidor não teria avançado para a ronda posterior, o resultado do último competidor não deve ser removido.
     - 9t3+) [EXEMPLO] Supõe-se que um competidor A obtenha uma média de 10.00 e o competidor B obtém uma média de 10.05 na primeira ronda de um evento, de maneira que o competidor B obtém uma média de 9.95 (e devesse ter avançado para a Ronda Final em do A), o competidor A mantém os seus resultados da Ronda Final.
     - 9t4) Esta regra não se aplica entre as fases de uma ronda Frente a Frente.
+    - 9t5) Exceção: os resultados de rondas consecutivas não são eliminados se, na sequência de uma alteração de resultado para DNS após a competição, em conformidade com o Regulamento 11i1, o concorrente já não tivesse passado à ronda seguinte.
 - 9u) Uma competição é dada como terminada quando os seguintes requisitos são respeitados simultaneamente:
 - 9u+) [ADIÇÃO] Para competições com vários locais físicos (Ex.: "Competições Simultâneas de 3x3x3 em Menos Movimentos"), todos os requerimentos devem ser cumpridos em todos os locais para se considerar a competição como acabada.
     - 9u1) Todas as rondas no cronograma do sítio web da WCA estiverem completadas.
@@ -473,12 +475,15 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
 - 11h) Um Delegado da WCA pode pedir a competidores em séria violação da [Regra 2k3](regulations:regulation:2k3) para abandonarem o local da competição, tendo em conta a seriedade da situação e a melhor forma de ação. Se o competidor recusar tal pedido, o mesmo poderá enfrentar ações disciplinares na WCA.
 - 11i) Se um puzzle de um competidor é descoberto com estando embaralhado incorretamente após terem concluído a resolução, as seguintes regras aplicam-se:
     - 11i1) Nos casos seguintes, uma tentativa extra deve ser dada para repor a tentativa afetada. Se nenhuma tentativa extra é atribuída, o resultado será considerado com DNS:
-    - 11i1+) [RECOMENDAÇÃO] Competidores que se esperem que cumpram estes critérios devem ter os seus embaralhamentos verificados por um segundo embaralhador antes de serem enviados ([Regra 4g+](regulations:regulation:4g+).
+    - 11i1+) [RECOMENDAÇÃO] Competidores que se esperem que cumpram estes critérios devem ter os seus embaralhamentos verificados por um segundo embaralhador antes de serem enviados ([Regra 4g3](regulations:regulation:4g3).
+    - 11i1++) [RECOMENDAÇÃO] Para resultados que cumpram estes critérios, o Delegado da WCA deve procurar verificar mais detalhadamente, por exemplo, com imagens de vídeo disponíveis, se o cubo foi embaralhado corretamente, antes do final da competição.
+    - 11i1+++) [ADIÇÃO] Se solicitado pelos competidores com resultados que cumpram estes critérios, o Delegado da WCA deve disponibilizar as sequências de embaralhamento relevantes antes do final da competição.
         - 11i1a) O resultado individual é um recorde regional ou um recorde pessoal no Top 50 resultados do ranking do mundo.
         - 11i1b) O resultado faz parte de uma média que é um recorde regional ou um recorde pessoal no Top 50 resultados do ranking do mundo.
         - 11i1c) O resultado é alcançado numa ronda final de um Campeonato Nacional, Campeonato Continental ou Campeonato Mundial.
         - 11i1d) O resultado foi alcançado resolvendo o puzzle em menos movimentos que o limite definido em [Regra 4b3](regulations:regulation:4b3).
-        - 11i1e) Exceção: para o Cubo 5x5x5, Cubo 6x6x6, Cubo 7x7x7, Megaminx e 3x3x3 Vários Cubos Vendado, uma tentativa extra não precisa de ser atribuída sob as cirsuntâncias descritas em cima.
+        - 11i1e) Exceção para [11i1a](regulations:regulation:11i1a) e [11i1b](regulations:regulation:11i1b): para o Cubo 5x5x5, Cubo 6x6x6, Cubo 7x7x7, Megaminx e 3x3x3 Vários Cubos Vendado, aplica-se, em vez das mesmas, a [Regra 11i2](regulations:regulation:11i2).
+        - 11i1f) Exceção para [11i1a](regulations:regulation:11i1a) e [11i1b](regulations:regulation:11i1b): para resultados obtidos na ronda final de um Campeonato Nacional, Campeonato Continental ou Campeonato Mundial, aplica-se a [Regra 11i2](regulations:regulation:11i2) caso dois embaralhadores tenham verificado que o puzzle foi embaralhado corretamente e tenham assinado a folha de resultados (ver Regra [Regra 4g3](regulations:regulation:4g3)).
     - 11i2) Para todos os outros casos, o resulto pode permanecer. Exceção: O Delegado da WCA pode atribuir uma tentativa extra a seu critério se o mesmo acreditar que esta provoca um resultado significativamente mais justo (Ex.: o embaralhamento incorretamente atribuído foi extremamente fácil e o competidor obteve um novo recorde pessoal, o embaralhamento incorreto impactou o pódio para o evento, ou o puzzle foi deliberadamente embaralhado de maneira incorreta).
     - 11i2+) Se o Delegado da WCA não tem a certeza se um embaralhamento incorreto levou a um resultado menos justo do que com o embaralhamento original, uma tentativa extra provisória deve ser atribuída.
     - 11i2++) [LEMBRETE] Apesar de resultados individuais alcançados em puzzles incorretamente embaralhados poderem ser permitidos, o Delegado da WCA deve garantir que estes embaralhamentos incorretos não se tornam comuns.
