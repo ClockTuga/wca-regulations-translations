@@ -494,7 +494,7 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
     - 11j2) Se erro for descoberto durante o grupo, o Delegado da WCA deverá fazer um esforço para atribuir ao competidor o embaralhamento correto. Uma tentativa extra pode ser atribuída se o Delegado da WCA não tem a certeza de qual seria o embaralhamento correto a atribuir.
     - 11j3) Se o erro for descoberto durante a competição, mas depois do grupo, a tentativa em falta deve ser reposta por uma tentativa extra.
     - 11j3+) [LEMBRETE] A sequência de embaralhamento usada para a tentativa extra não deve ser obtida de um grupo anterior.
-    -  11j4) Se o erro for descoberto apenas após o fim da competição, o resultado será considerado com DNS.
+    - 11j4) Se o erro for descoberto apenas após o fim da competição, o resultado será considerado com DNS.
 - 11k) Para rondas Frente a Frente (ver [Artigo I](regulations:article:I)), o Delegado da WCA deve considerar a natureza do formato ao determinar o curso de ação para qualquer incidente.
     - 11k1) Se o Delegado da WCA conceder uma tentativa extra a qualquer um dos competidores por um ponto, ambos os competidores devem receber uma tentativa extra.
     - 11k2) O Delegado da WCA não deve conceder uma tentativa extra se um incidente não afetar qual competidor ganharia um ponto.
