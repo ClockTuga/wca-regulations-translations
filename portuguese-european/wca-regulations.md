@@ -43,7 +43,7 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
 <table-of-contents>
 
 
-### <article-1><officials><officials> Artigo 1: Oficiais
+## <article-1><officials><officials> Artigo 1: Oficiais
 
 - 1a) Uma competição requer a presença de um Delegado da WCA e uma equipa de organização (composta por um ou mais elementos) com os seguintes oficiais: juízes, embaralhadores e registadores de resultados.
     - 1a1) Uma competição com uma ou mais rondas Frente a Frente (ver [Artigo I](regulations:article:I)) deve ter também um ou mais apresentadores.
