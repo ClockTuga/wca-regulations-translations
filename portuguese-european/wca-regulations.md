@@ -281,7 +281,7 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
 ## <article-7><environment><environment> Artigo 7: Ambiente
 
 - 7b) Os espetadores devem permanecer no mínimo a 1,5 metros das estações de resolução quando elas estiverem em uso.
-- 7c) A iluminação da área de competição deve receber atenção especial. A luz deve ser neutra, de forma que os competidores consigam facilmente entre as cores nos puzzles.
+- 7c) A iluminação da área de competição deve receber atenção especial. A luz deve ser neutra, de forma que os competidores consigam facilmente diferenciar as cores nos puzzles.
 - 7e) A área de competição deve ser de não fumadores.
 - 7f) Estação de resolução:
     - 7f1) Definições:
@@ -485,7 +485,7 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
         - 11i1e) Exceção para [11i1a](regulations:regulation:11i1a) e [11i1b](regulations:regulation:11i1b): para o Cubo 5x5x5, Cubo 6x6x6, Cubo 7x7x7, Megaminx e 3x3x3 Vários Cubos Vendado, aplica-se, em vez das mesmas, a [Regra 11i2](regulations:regulation:11i2).
         - 11i1f) Exceção para [11i1a](regulations:regulation:11i1a) e [11i1b](regulations:regulation:11i1b): para resultados obtidos na ronda final de um Campeonato Nacional, Campeonato Continental ou Campeonato Mundial, aplica-se a [Regra 11i2](regulations:regulation:11i2) caso dois embaralhadores tenham verificado que o puzzle foi embaralhado corretamente e tenham assinado a folha de resultados (ver Regra [Regra 4g3](regulations:regulation:4g3)).
     - 11i2) Para todos os outros casos, o resultado pode permanecer. Exceção: O Delegado da WCA pode atribuir uma tentativa extra a seu critério se o mesmo acreditar que esta provoca um resultado significativamente mais justo (Ex.: o embaralhamento incorretamente atribuído foi extremamente fácil e o competidor obteve um novo recorde pessoal, o embaralhamento incorreto impactou o pódio para o evento, ou o puzzle foi deliberadamente embaralhado de maneira incorreta).
-        - 11i2+) [RECOMENDAÇÃO] Se o Delegado da WCA não tem a certeza se um embaralhamento incorreto levou a um resultado menos justo do que com o embaralhamento original, uma tentativa extra provisória deve ser atribuída.
+    - 11i2+) [RECOMENDAÇÃO] Se o Delegado da WCA não tem a certeza se um embaralhamento incorreto levou a um resultado menos justo do que com o embaralhamento original, uma tentativa extra provisória deve ser atribuída.
     - 11i2++) [LEMBRETE] Apesar de resultados individuais alcançados em puzzles incorretamente embaralhados poderem ser permitidos, o Delegado da WCA deve garantir que estes embaralhamentos incorretos não se tornam comuns.
         - 11i2a) Se uma tentativa extra fosse provocar um resultado significativamente justo, a tentativa original é considerada inválida (ver [Regra 9l](regulations:regulation:9l).
         - 11i2b) Se uma tentativa extra para um embaralhamento incorreto não consegue ser atribuída devido a causar um resultado significativamente injusto (Ex.: porque o embaralhamento incorreto foi encontrado após a competição) o resultado será considerado com DNS.
@@ -494,7 +494,7 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
     - 11j2) Se o erro for descoberto durante o grupo, o Delegado da WCA deverá fazer um esforço para atribuir ao competidor o embaralhamento correto. Uma tentativa extra pode ser atribuída se o Delegado da WCA não tem a certeza de qual seria o embaralhamento correto a atribuir.
     - 11j3) Se o erro for descoberto durante a competição, mas depois do grupo, a tentativa em falta deve ser reposta por uma tentativa extra.
     - 11j3+) [LEMBRETE] A sequência de embaralhamento usada para a tentativa extra não deve ser obtida de um grupo anterior.
-    -  11j4) Se o erro for descoberto apenas após o fim da competição, o resultado será considerado com DNS.
+    - 11j4) Se o erro for descoberto apenas após o fim da competição, o resultado será considerado com DNS.
 - 11k) Para rondas Frente a Frente (ver [Artigo I](regulations:article:I)), o Delegado da WCA deve considerar a natureza do formato ao determinar o curso de ação para qualquer incidente.
     - 11k1) Se o Delegado da WCA conceder uma tentativa extra a qualquer um dos competidores por um ponto, ambos os competidores devem receber uma tentativa extra.
     - 11k2) O Delegado da WCA não deve conceder uma tentativa extra se um incidente não afetar qual competidor ganharia um ponto.
