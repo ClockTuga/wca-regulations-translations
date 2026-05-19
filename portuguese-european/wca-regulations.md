@@ -271,11 +271,11 @@ Nota: Uma vez que os números dos Artigos e Regras não são atualizados quando 
         - 5b5f+++) [EXEMPLO] Uma peça de canto afetado por um giro de canto é considerada como estando numa posição válida, mas tal posição não leva a uma peça resolvida.
         - 5b5f++++) [ESCLARECIMENTO] Se existirem várias peças parcialmente desligadas ou não totalmente ligadas, a sua posição final é feita uma de cada vez. A peça que está mais perto de uma posição livre é tratada primeiro, e depois é considerada como estando a ocupar essa posição. Este processo é repetido até todas as peças parcialmente desligadas ou não totalmente ligadas serem tratadas.
     - 5b6) Definição: Uma parte é uma ou mais componentes totalmente conectadas de entre um grupo de componentes de peças do puzzle que continuam conectadas e não movem relativamente entre si durante uma operação ordinal do puzzle (Ex.: uma capa de centro de um 3x3x3, a ponta de um Pyraminx, uma peça de canto de um 3x3x3 à qual falte uma face, uma face de uma peça de canto de um 3x3x3).
-    - 5c+) [LEMBRETE] Se um competidor tiver um defeito no puzzle, isso não lhe dá o direito a uma tentativa extra.
-    - 5d) O competidor não está autorizado a causar intencionalmente um defeito no puzzle. Exemplos de causar intencionalmente defeitos no puzzle: remover uma tampa central fixada, rodar uma peça de canto, retirar um autocolante.
-        - 5d1) Exceção: o competidor pode causar intencionalmente um defeito no puzzle enquanto repara um defeito anterior (ver [Regra 5b3b](regulations:regulation:5b3b) e [Regra 5b3c](regulations:regulation:5b3c)).
-        - 5d2) Exceção: se um competidor corrigir incorretamente um defeito existente no puzzle, por exemplo, rodando uma peça de canto na direção errada (ver [Regra 5b3c](regulations:regulation:5b3c)), isso não é considerado causar intencionalmente um defeito no puzzle.
-        - 5d3) Penalidade por causar intencionalmente um defeito no puzzle: desqualificação da tentativa (DNF).
+- 5c+) [LEMBRETE] Se um competidor tiver um defeito no puzzle, isso não lhe dá o direito a uma tentativa extra.
+- 5d) O competidor não está autorizado a causar intencionalmente um defeito no puzzle. Exemplos de causar intencionalmente defeitos no puzzle: remover uma tampa central fixada, rodar uma peça de canto, retirar um autocolante.
+    - 5d1) Exceção: o competidor pode causar intencionalmente um defeito no puzzle enquanto repara um defeito anterior (ver [Regra 5b3b](regulations:regulation:5b3b) e [Regra 5b3c](regulations:regulation:5b3c)).
+    - 5d2) Exceção: se um competidor corrigir incorretamente um defeito existente no puzzle, por exemplo, rodando uma peça de canto na direção errada (ver [Regra 5b3c](regulations:regulation:5b3c)), isso não é considerado causar intencionalmente um defeito no puzzle.
+    - 5d3) Penalidade por causar intencionalmente um defeito no puzzle: desqualificação da tentativa (DNF).
 
 
 ## <article-7><environment><environment> Artigo 7: Ambiente
